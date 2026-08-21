@@ -1,0 +1,9764 @@
+{
+  "total": 980381,
+  "ativos": 535073,
+  "moveis": 446378,
+  "fixos": 534003,
+  "mei": 195157,
+  "com_email": 864430,
+  "cidades": [
+    [
+      "SAO JOSE DO RIO PRETO",
+      204306
+    ],
+    [
+      "BARRETOS",
+      43660
+    ],
+    [
+      "CATANDUVA",
+      42468
+    ],
+    [
+      "VOTUPORANGA",
+      36360
+    ],
+    [
+      "BEBEDOURO",
+      26397
+    ],
+    [
+      "FERNANDOPOLIS",
+      25619
+    ],
+    [
+      "OLIMPIA",
+      24224
+    ],
+    [
+      "MIRASSOL",
+      23135
+    ],
+    [
+      "JALES",
+      21334
+    ],
+    [
+      "NOVO HORIZONTE",
+      19046
+    ],
+    [
+      "JOSE BONIFACIO",
+      17566
+    ],
+    [
+      "GUAIRA",
+      15784
+    ],
+    [
+      "MONTE APRAZIVEL",
+      14102
+    ],
+    [
+      "TANABI",
+      13646
+    ],
+    [
+      "SANTA FE DO SUL",
+      13454
+    ],
+    [
+      "BADY BASSITT",
+      10416
+    ],
+    [
+      "ITAJOBI",
+      10242
+    ],
+    [
+      "POTIRENDABA",
+      8981
+    ],
+    [
+      "GUAPIACU",
+      8887
+    ],
+    [
+      "AURIFLAMA",
+      8793
+    ],
+    [
+      "NHANDEARA",
+      8633
+    ],
+    [
+      "URUPES",
+      8580
+    ],
+    [
+      "NOVA GRANADA",
+      8156
+    ],
+    [
+      "SAO PAULO",
+      7803
+    ],
+    [
+      "MONTE AZUL PAULISTA",
+      7652
+    ],
+    [
+      "PALESTINA",
+      7292
+    ],
+    [
+      "CARDOSO",
+      7034
+    ],
+    [
+      "VIRADOURO",
+      6630
+    ],
+    [
+      "IBIRA",
+      6407
+    ],
+    [
+      "COSMORAMA",
+      6405
+    ],
+    [
+      "GENERAL SALGADO",
+      6344
+    ],
+    [
+      "CEDRAL",
+      6046
+    ],
+    [
+      "PALMEIRA D'OESTE",
+      5949
+    ],
+    [
+      "COLINA",
+      5931
+    ],
+    [
+      "PIRANGI",
+      5873
+    ],
+    [
+      "TABAPUA",
+      5647
+    ],
+    [
+      "UCHOA",
+      5513
+    ],
+    [
+      "BALSAMO",
+      5510
+    ],
+    [
+      "VALENTIM GENTIL",
+      5445
+    ],
+    [
+      "SANTA ADELIA",
+      5438
+    ],
+    [
+      "ESTRELA D'OESTE",
+      5178
+    ],
+    [
+      "PINDORAMA",
+      5063
+    ],
+    [
+      "NEVES PAULISTA",
+      4968
+    ],
+    [
+      "URANIA",
+      4950
+    ],
+    [
+      "SEVERINIA",
+      4830
+    ],
+    [
+      "OUROESTE",
+      4720
+    ],
+    [
+      "MACAUBAL",
+      4566
+    ],
+    [
+      "POLONI",
+      4494
+    ],
+    [
+      "ALVARES FLORENCE",
+      4240
+    ],
+    [
+      "CAJOBI",
+      4049
+    ],
+    [
+      "RIOLANDIA",
+      4022
+    ],
+    [
+      "GUARACI",
+      4014
+    ],
+    [
+      "IRAPUA",
+      3965
+    ],
+    [
+      "AMERICO DE CAMPOS",
+      3952
+    ],
+    [
+      "JACI",
+      3677
+    ],
+    [
+      "GUZOLANDIA",
+      3602
+    ],
+    [
+      "MACEDONIA",
+      3288
+    ],
+    [
+      "SANTA ALBERTINA",
+      3251
+    ],
+    [
+      "TRES FRONTEIRAS",
+      3213
+    ],
+    [
+      "PAULO DE FARIA",
+      3149
+    ],
+    [
+      "COLOMBIA",
+      3127
+    ],
+    [
+      "PARAISO",
+      3124
+    ],
+    [
+      "NOVA ALIANCA",
+      3117
+    ],
+    [
+      "ARIRANHA",
+      2973
+    ],
+    [
+      "TERRA ROXA",
+      2877
+    ],
+    [
+      "MIRASSOLANDIA",
+      2871
+    ],
+    [
+      "PEDRANOPOLIS",
+      2862
+    ],
+    [
+      "SALES",
+      2853
+    ],
+    [
+      "MENDONCA",
+      2758
+    ],
+    [
+      "JABORANDI",
+      2743
+    ],
+    [
+      "IPIGUA",
+      2729
+    ],
+    [
+      "PALMARES PAULISTA",
+      2668
+    ],
+    [
+      "RIBEIRAO PRETO",
+      2664
+    ],
+    [
+      "MERIDIANO",
+      2653
+    ],
+    [
+      "MAGDA",
+      2588
+    ],
+    [
+      "APARECIDA D'OESTE",
+      2572
+    ],
+    [
+      "GASTAO VIDIGAL",
+      2542
+    ],
+    [
+      "ORINDIUVA",
+      2541
+    ],
+    [
+      "SANTA RITA D'OESTE",
+      2540
+    ],
+    [
+      "ICEM",
+      2429
+    ],
+    [
+      "SEBASTIANOPOLIS DO SUL",
+      2400
+    ],
+    [
+      "MIRA ESTRELA",
+      2393
+    ],
+    [
+      "FLOREAL",
+      2362
+    ],
+    [
+      "PONTALINDA",
+      2307
+    ],
+    [
+      "MARAPOAMA",
+      2261
+    ],
+    [
+      "INDIAPORA",
+      2228
+    ],
+    [
+      "POPULINA",
+      2158
+    ],
+    [
+      "NOVAIS",
+      2152
+    ],
+    [
+      "NIPOA",
+      2131
+    ],
+    [
+      "ONDA VERDE",
+      2063
+    ],
+    [
+      "PARANAPUA",
+      1991
+    ],
+    [
+      "RUBINEIA",
+      1988
+    ],
+    [
+      "CATIGUA",
+      1957
+    ],
+    [
+      "SAO FRANCISCO",
+      1904
+    ],
+    [
+      "SANTA CLARA D'OESTE",
+      1895
+    ],
+    [
+      "NOVA CANAA PAULISTA",
+      1880
+    ],
+    [
+      "TURMALINA",
+      1862
+    ],
+    [
+      "UBARANA",
+      1787
+    ],
+    [
+      "PARISI",
+      1761
+    ],
+    [
+      "SANTANA DA PONTE PENSA",
+      1729
+    ],
+    [
+      "PONTES GESTAL",
+      1684
+    ],
+    [
+      "MARINOPOLIS",
+      1653
+    ],
+    [
+      "ASPASIA",
+      1618
+    ],
+    [
+      "NOVA LUZITANIA",
+      1599
+    ],
+    [
+      "SANTA SALETE",
+      1571
+    ],
+    [
+      "ADOLFO",
+      1554
+    ],
+    [
+      "NOVA CASTILHO",
+      1552
+    ],
+    [
+      "EMBAUBA",
+      1527
+    ],
+    [
+      "ALTAIR",
+      1493
+    ],
+    [
+      "SANTO ANTONIO DO ARACANGUA",
+      1486
+    ],
+    [
+      "DOLCINOPOLIS",
+      1437
+    ],
+    [
+      "UNIAO PAULISTA",
+      1380
+    ],
+    [
+      "MONCOES",
+      1376
+    ],
+    [
+      "SAO JOAO DAS DUAS PONTES",
+      1317
+    ],
+    [
+      "MESOPOLIS",
+      1230
+    ],
+    [
+      "CAMPINAS",
+      1227
+    ],
+    [
+      "GUARANI D'OESTE",
+      1215
+    ],
+    [
+      "SAO JOAO DE IRACEMA",
+      1180
+    ],
+    [
+      "ELISIARIO",
+      1126
+    ],
+    [
+      "PLANALTO",
+      1082
+    ],
+    [
+      "BORBOREMA",
+      1070
+    ],
+    [
+      "ARACATUBA",
+      991
+    ],
+    [
+      "DIRCE REIS",
+      987
+    ],
+    [
+      "VITORIA BRASIL",
+      971
+    ],
+    [
+      "MIGUELOPOLIS",
+      937
+    ],
+    [
+      "SUD MENNUCCI",
+      765
+    ],
+    [
+      "ARARAQUARA",
+      612
+    ],
+    [
+      "PITANGUEIRAS",
+      582
+    ],
+    [
+      "BAURU",
+      552
+    ],
+    [
+      "ITAPOLIS",
+      534
+    ],
+    [
+      "SAO CARLOS",
+      529
+    ],
+    [
+      "ILHA SOLTEIRA",
+      502
+    ],
+    [
+      "JUNDIAI",
+      492
+    ],
+    [
+      "UBERLANDIA",
+      454
+    ],
+    [
+      "FRUTAL",
+      446
+    ],
+    [
+      "ZACARIAS",
+      436
+    ],
+    [
+      "FRONTEIRA",
+      431
+    ],
+    [
+      "PEREIRA BARRETO",
+      431
+    ],
+    [
+      "GOIANIA",
+      426
+    ],
+    [
+      "FRANCA",
+      420
+    ],
+    [
+      "JABOTICABAL",
+      419
+    ],
+    [
+      "ITURAMA",
+      400
+    ],
+    [
+      "BELO HORIZONTE",
+      398
+    ],
+    [
+      "MARILIA",
+      396
+    ],
+    [
+      "BURITAMA",
+      394
+    ],
+    [
+      "FERNANDO PRESTES",
+      393
+    ],
+    [
+      "BIRIGUI",
+      389
+    ],
+    [
+      "RIO DE JANEIRO",
+      389
+    ],
+    [
+      "SALVADOR",
+      368
+    ],
+    [
+      "TURIUBA",
+      366
+    ],
+    [
+      "CURITIBA",
+      364
+    ],
+    [
+      "APARECIDA DO TABOADO",
+      351
+    ],
+    [
+      "SOROCABA",
+      345
+    ],
+    [
+      "LINS",
+      344
+    ],
+    [
+      "BRASILIA",
+      334
+    ],
+    [
+      "CAFELANDIA",
+      329
+    ],
+    [
+      "PRESIDENTE PRUDENTE",
+      311
+    ],
+    [
+      "BARUERI",
+      309
+    ],
+    [
+      "PENAPOLIS",
+      308
+    ],
+    [
+      "FLORIANOPOLIS",
+      306
+    ],
+    [
+      "MATAO",
+      306
+    ],
+    [
+      "CAMPO GRANDE",
+      303
+    ],
+    [
+      "GUARARAPES",
+      302
+    ],
+    [
+      "SAO JOSE DOS CAMPOS",
+      299
+    ],
+    [
+      "SERTAOZINHO",
+      293
+    ],
+    [
+      "GUARULHOS",
+      288
+    ],
+    [
+      "TRES LAGOAS",
+      288
+    ],
+    [
+      "MONTE ALTO",
+      286
+    ],
+    [
+      "PIRACICABA",
+      285
+    ],
+    [
+      "TAQUARAL",
+      284
+    ],
+    [
+      "ARACAJU",
+      280
+    ],
+    [
+      "IBITINGA",
+      280
+    ],
+    [
+      "VISTA ALEGRE DO ALTO",
+      279
+    ],
+    [
+      "AMERICANA",
+      275
+    ],
+    [
+      "TAIACU",
+      275
+    ],
+    [
+      "TAQUARITINGA",
+      270
+    ],
+    [
+      "UBERABA",
+      269
+    ],
+    [
+      "SUZANAPOLIS",
+      259
+    ],
+    [
+      "VALPARAISO",
+      252
+    ],
+    [
+      "TAIUVA",
+      250
+    ],
+    [
+      "PARANAIBA",
+      244
+    ],
+    [
+      "MORRO AGUDO",
+      237
+    ],
+    [
+      "LONDRINA",
+      235
+    ],
+    [
+      "MARINGA",
+      227
+    ],
+    [
+      "SANTOS",
+      226
+    ],
+    [
+      "OSASCO",
+      219
+    ],
+    [
+      "CUIABA",
+      218
+    ],
+    [
+      "PONGAI",
+      218
+    ],
+    [
+      "SAO BERNARDO DO CAMPO",
+      216
+    ],
+    [
+      "PROMISSAO",
+      210
+    ],
+    [
+      "ANDRADINA",
+      209
+    ],
+    [
+      "SANTO ANDRE",
+      206
+    ],
+    [
+      "INDAIATUBA",
+      205
+    ],
+    [
+      "PLANURA",
+      200
+    ],
+    [
+      "LIMEIRA",
+      198
+    ],
+    [
+      "IPUA",
+      182
+    ],
+    [
+      "BOTUCATU",
+      164
+    ],
+    [
+      "HORTOLANDIA",
+      162
+    ],
+    [
+      "ITAJAI",
+      156
+    ],
+    [
+      "RIO CLARO",
+      155
+    ],
+    [
+      "SUMARE",
+      154
+    ],
+    [
+      "BARBOSA",
+      149
+    ],
+    [
+      "LOURDES",
+      148
+    ],
+    [
+      "PORTO ALEGRE",
+      147
+    ],
+    [
+      "PRAIA GRANDE",
+      146
+    ],
+    [
+      "GUARANTA",
+      144
+    ],
+    [
+      "SAO JOAQUIM DA BARRA",
+      144
+    ],
+    [
+      "RONDONOPOLIS",
+      142
+    ],
+    [
+      "ITUVERAVA",
+      138
+    ],
+    [
+      "INDIANA",
+      131
+    ],
+    [
+      "CASSILANDIA",
+      128
+    ],
+    [
+      "FORTALEZA",
+      123
+    ],
+    [
+      "CHAPADAO DO SUL",
+      122
+    ],
+    [
+      "SANTA BARBARA D'OESTE",
+      122
+    ],
+    [
+      "PIRAJUI",
+      116
+    ],
+    [
+      "JAU",
+      115
+    ],
+    [
+      "MIRANDOPOLIS",
+      115
+    ],
+    [
+      "RIO VERDE",
+      109
+    ],
+    [
+      "JOINVILLE",
+      108
+    ],
+    [
+      "AVARE",
+      105
+    ],
+    [
+      "SINOP",
+      101
+    ],
+    [
+      "GETULINA",
+      99
+    ],
+    [
+      "SAO CAETANO DO SUL",
+      99
+    ],
+    [
+      "TAUBATE",
+      98
+    ],
+    [
+      "CASTILHO",
+      94
+    ],
+    [
+      "PALMAS",
+      94
+    ],
+    [
+      "GUARUJA",
+      93
+    ],
+    [
+      "ITAPAGIPE",
+      92
+    ],
+    [
+      "MOGI GUACU",
+      92
+    ],
+    [
+      "COROADOS",
+      91
+    ],
+    [
+      "SANTANA DE PARNAIBA",
+      91
+    ],
+    [
+      "PAULINIA",
+      89
+    ],
+    [
+      "PIRASSUNUNGA",
+      88
+    ],
+    [
+      "PRATA",
+      88
+    ],
+    [
+      "COSTA RICA",
+      86
+    ],
+    [
+      "GUAICARA",
+      86
+    ],
+    [
+      "TUPA",
+      85
+    ],
+    [
+      "RECIFE",
+      84
+    ],
+    [
+      "GUARIBA",
+      83
+    ],
+    [
+      "ARARAS",
+      82
+    ],
+    [
+      "GUARACAI",
+      82
+    ],
+    [
+      "MACEIO",
+      81
+    ],
+    [
+      "BALNEARIO CAMBORIU",
+      79
+    ],
+    [
+      "GARCA",
+      79
+    ],
+    [
+      "ASSIS",
+      78
+    ],
+    [
+      "JOAO PESSOA",
+      76
+    ],
+    [
+      "MOGI DAS CRUZES",
+      76
+    ],
+    [
+      "ITUMBIARA",
+      75
+    ],
+    [
+      "MANAUS",
+      74
+    ],
+    [
+      "APARECIDA DE GOIANIA",
+      73
+    ],
+    [
+      "CARNEIRINHO",
+      73
+    ],
+    [
+      "VALINHOS",
+      73
+    ],
+    [
+      "FOZ DO IGUACU",
+      72
+    ],
+    [
+      "BATATAIS",
+      71
+    ],
+    [
+      "OURINHOS",
+      71
+    ],
+    [
+      "SAO SIMAO",
+      71
+    ],
+    [
+      "SABINO",
+      70
+    ],
+    [
+      "AVANHANDAVA",
+      69
+    ],
+    [
+      "CARAGUATATUBA",
+      69
+    ],
+    [
+      "COTIA",
+      69
+    ],
+    [
+      "SAO JOAO DA BOA VISTA",
+      68
+    ],
+    [
+      "UBATUBA",
+      68
+    ],
+    [
+      "PRIMAVERA DO LESTE",
+      65
+    ],
+    [
+      "SAO VICENTE",
+      65
+    ],
+    [
+      "VITORIA",
+      65
+    ],
+    [
+      "ATIBAIA",
+      64
+    ],
+    [
+      "CONCEICAO DAS ALAGOAS",
+      64
+    ],
+    [
+      "ITAPURA",
+      64
+    ],
+    [
+      "MURUTINGA DO SUL",
+      63
+    ],
+    [
+      "ORLANDIA",
+      63
+    ],
+    [
+      "CAIUA",
+      62
+    ],
+    [
+      "VARZEA GRANDE",
+      62
+    ],
+    [
+      "BELEM",
+      61
+    ],
+    [
+      "LIMEIRA DO OESTE",
+      60
+    ],
+    [
+      "BLUMENAU",
+      59
+    ],
+    [
+      "CAMPINA VERDE",
+      59
+    ],
+    [
+      "ITUIUTABA",
+      59
+    ],
+    [
+      "SAO JOSE",
+      59
+    ],
+    [
+      "CASCAVEL",
+      58
+    ],
+    [
+      "CRAVINHOS",
+      58
+    ],
+    [
+      "DOURADOS",
+      58
+    ],
+    [
+      "URU",
+      58
+    ],
+    [
+      "BRAGANCA PAULISTA",
+      57
+    ],
+    [
+      "CARAPICUIBA",
+      56
+    ],
+    [
+      "MAUA",
+      56
+    ],
+    [
+      "NITEROI",
+      56
+    ],
+    [
+      "SORRISO",
+      56
+    ],
+    [
+      "VOTORANTIM",
+      56
+    ],
+    [
+      "JUNQUEIROPOLIS",
+      55
+    ],
+    [
+      "PALHOCA",
+      54
+    ],
+    [
+      "IGARAPAVA",
+      53
+    ],
+    [
+      "PRESIDENTE EPITACIO",
+      53
+    ],
+    [
+      "DESCALVADO",
+      52
+    ],
+    [
+      "VINHEDO",
+      52
+    ],
+    [
+      "ARAGUAINA",
+      51
+    ],
+    [
+      "BARRA DO GARCAS",
+      51
+    ],
+    [
+      "DIADEMA",
+      51
+    ],
+    [
+      "ITAPETININGA",
+      51
+    ],
+    [
+      "TABOAO DA SERRA",
+      51
+    ],
+    [
+      "VILA VELHA",
+      51
+    ],
+    [
+      "GUAIMBE",
+      50
+    ],
+    [
+      "INOCENCIA",
+      50
+    ],
+    [
+      "PASSOS",
+      50
+    ],
+    [
+      "PATOS DE MINAS",
+      50
+    ],
+    [
+      "PONTAL",
+      50
+    ],
+    [
+      "PATROCINIO PAULISTA",
+      49
+    ],
+    [
+      "PORTO VELHO",
+      49
+    ],
+    [
+      "SAO SEBASTIAO",
+      49
+    ],
+    [
+      "RANCHARIA",
+      48
+    ],
+    [
+      "SAO LUIS",
+      48
+    ],
+    [
+      "CAJAMAR",
+      47
+    ],
+    [
+      "JACAREI",
+      47
+    ],
+    [
+      "TAMBAU",
+      47
+    ],
+    [
+      "ALTINOPOLIS",
+      46
+    ],
+    [
+      "ITAJA",
+      46
+    ],
+    [
+      "ITU",
+      46
+    ],
+    [
+      "NATAL",
+      46
+    ],
+    [
+      "ANAPOLIS",
+      45
+    ],
+    [
+      "CHAPADAO DO CEU",
+      45
+    ],
+    [
+      "CONTAGEM",
+      45
+    ],
+    [
+      "LAVINIA",
+      45
+    ],
+    [
+      "SERRA",
+      45
+    ],
+    [
+      "TEODORO SAMPAIO",
+      45
+    ],
+    [
+      "AREALVA",
+      44
+    ],
+    [
+      "DRACENA",
+      44
+    ],
+    [
+      "ITAPEVI",
+      44
+    ],
+    [
+      "REGINOPOLIS",
+      44
+    ],
+    [
+      "ARINOS",
+      43
+    ],
+    [
+      "BARIRI",
+      43
+    ],
+    [
+      "BARRINHA",
+      43
+    ],
+    [
+      "PANORAMA",
+      43
+    ],
+    [
+      "PONTA GROSSA",
+      43
+    ],
+    [
+      "SERRANA",
+      43
+    ],
+    [
+      "LUCELIA",
+      42
+    ],
+    [
+      "POCOS DE CALDAS",
+      42
+    ],
+    [
+      "FRANCISCO SA",
+      41
+    ],
+    [
+      "GALIA",
+      41
+    ],
+    [
+      "LUIS EDUARDO MAGALHAES",
+      41
+    ],
+    [
+      "MOGI MIRIM",
+      41
+    ],
+    [
+      "NOVA ODESSA",
+      41
+    ],
+    [
+      "SALTO",
+      41
+    ],
+    [
+      "CANDIDO RODRIGUES",
+      40
+    ],
+    [
+      "JARDINOPOLIS",
+      40
+    ],
+    [
+      "LOUVEIRA",
+      40
+    ],
+    [
+      "SAO PEDRO",
+      40
+    ],
+    [
+      "TATUI",
+      40
+    ],
+    [
+      "TERESINA",
+      40
+    ],
+    [
+      "FEIRA DE SANTANA",
+      39
+    ],
+    [
+      "ITANHAEM",
+      39
+    ],
+    [
+      "ITUPEVA",
+      39
+    ],
+    [
+      "JATAI",
+      39
+    ],
+    [
+      "RIBEIRAO BONITO",
+      39
+    ],
+    [
+      "MARTINOPOLIS",
+      38
+    ],
+    [
+      "ARAXA",
+      37
+    ],
+    [
+      "CALDAS NOVAS",
+      37
+    ],
+    [
+      "LUCAS DO RIO VERDE",
+      37
+    ],
+    [
+      "MINEIROS",
+      37
+    ],
+    [
+      "OSVALDO CRUZ",
+      37
+    ],
+    [
+      "PACAEMBU",
+      37
+    ],
+    [
+      "ADAMANTINA",
+      36
+    ],
+    [
+      "BARRA BONITA",
+      36
+    ],
+    [
+      "BRUSQUE",
+      36
+    ],
+    [
+      "BURITIZEIRO",
+      36
+    ],
+    [
+      "CHAPECO",
+      36
+    ],
+    [
+      "EMBU DAS ARTES",
+      36
+    ],
+    [
+      "ITAQUAQUECETUBA",
+      36
+    ],
+    [
+      "MONTES CLAROS",
+      36
+    ],
+    [
+      "PINDAMONHANGABA",
+      36
+    ],
+    [
+      "PRADOPOLIS",
+      36
+    ],
+    [
+      "UBIRAJARA",
+      36
+    ],
+    [
+      "GUARA",
+      35
+    ],
+    [
+      "JAGUARIUNA",
+      35
+    ],
+    [
+      "MOCOCA",
+      35
+    ],
+    [
+      "BOA ESPERANCA DO SUL",
+      34
+    ],
+    [
+      "IACANGA",
+      34
+    ],
+    [
+      "ITAPIRA",
+      34
+    ],
+    [
+      "PERUIBE",
+      34
+    ],
+    [
+      "ALTO ALEGRE",
+      33
+    ],
+    [
+      "BETIM",
+      33
+    ],
+    [
+      "BOA VISTA",
+      33
+    ],
+    [
+      "LAURO DE FREITAS",
+      33
+    ],
+    [
+      "PORTO FERREIRA",
+      33
+    ],
+    [
+      "SUZANO",
+      33
+    ],
+    [
+      "VITORIA DA CONQUISTA",
+      33
+    ],
+    [
+      "AMERICO BRASILIENSE",
+      32
+    ],
+    [
+      "LEME",
+      32
+    ],
+    [
+      "LENCOIS PAULISTA",
+      32
+    ],
+    [
+      "MARABA",
+      32
+    ],
+    [
+      "RINOPOLIS",
+      32
+    ],
+    [
+      "ROSANA",
+      32
+    ],
+    [
+      "TABATINGA",
+      32
+    ],
+    [
+      "AGUA BOA",
+      31
+    ],
+    [
+      "ALVARO DE CARVALHO",
+      31
+    ],
+    [
+      "BOITUVA",
+      31
+    ],
+    [
+      "CIANORTE",
+      31
+    ],
+    [
+      "FRANCO DA ROCHA",
+      31
+    ],
+    [
+      "PONTES E LACERDA",
+      31
+    ],
+    [
+      "PORTO SEGURO",
+      31
+    ],
+    [
+      "ANANINDEUA",
+      30
+    ],
+    [
+      "JUIZ DE FORA",
+      30
+    ],
+    [
+      "POUSO ALEGRE",
+      30
+    ],
+    [
+      "SAO FRANCISCO DE SALES",
+      30
+    ],
+    [
+      "SAO JOSE DOS PINHAIS",
+      30
+    ],
+    [
+      "SAO SEBASTIAO DO PARAISO",
+      30
+    ],
+    [
+      "ALTO TAQUARI",
+      29
+    ],
+    [
+      "BRODOWSKI",
+      29
+    ],
+    [
+      "ECHAPORA",
+      29
+    ],
+    [
+      "GUARATINGUETA",
+      29
+    ],
+    [
+      "IMPERATRIZ",
+      29
+    ],
+    [
+      "NAVEGANTES",
+      29
+    ],
+    [
+      "PELOTAS",
+      29
+    ],
+    [
+      "PONTA PORA",
+      29
+    ],
+    [
+      "SANTA CRUZ DO RIO PARDO",
+      29
+    ],
+    [
+      "TANGARA DA SERRA",
+      29
+    ],
+    [
+      "CAMACARI",
+      28
+    ],
+    [
+      "CATALAO",
+      28
+    ],
+    [
+      "COSMOPOLIS",
+      28
+    ],
+    [
+      "DIVINOPOLIS",
+      28
+    ],
+    [
+      "DUARTINA",
+      28
+    ],
+    [
+      "GUANAMBI",
+      28
+    ],
+    [
+      "LORENA",
+      28
+    ],
+    [
+      "PARAGOMINAS",
+      28
+    ],
+    [
+      "PARAUAPEBAS",
+      28
+    ],
+    [
+      "RIO BRANCO",
+      28
+    ],
+    [
+      "SALES OLIVEIRA",
+      28
+    ],
+    [
+      "SAO ROQUE",
+      28
+    ],
+    [
+      "VILHENA",
+      28
+    ],
+    [
+      "AGUDOS",
+      27
+    ],
+    [
+      "APORE",
+      27
+    ],
+    [
+      "DUMONT",
+      27
+    ],
+    [
+      "FLORIDA PAULISTA",
+      27
+    ],
+    [
+      "PARANAGUA",
+      27
+    ],
+    [
+      "QUIRINOPOLIS",
+      27
+    ],
+    [
+      "SAO MANUEL",
+      27
+    ],
+    [
+      "CACHOEIRA ALTA",
+      26
+    ],
+    [
+      "CAMPO FLORIDO",
+      26
+    ],
+    [
+      "ESPIRITO SANTO DO PINHAL",
+      26
+    ],
+    [
+      "FRANCISCO MORATO",
+      26
+    ],
+    [
+      "ITATIBA",
+      26
+    ],
+    [
+      "PARAMIRIM",
+      26
+    ],
+    [
+      "PRESIDENTE BERNARDES",
+      26
+    ],
+    [
+      "ALTA FLORESTA",
+      25
+    ],
+    [
+      "ARAGUARI",
+      25
+    ],
+    [
+      "ARAPONGAS",
+      25
+    ],
+    [
+      "BERTIOGA",
+      25
+    ],
+    [
+      "BROTAS",
+      25
+    ],
+    [
+      "CACAPAVA",
+      25
+    ],
+    [
+      "CANOAS",
+      25
+    ],
+    [
+      "JARAGUA DO SUL",
+      25
+    ],
+    [
+      "PRESIDENTE VENCESLAU",
+      25
+    ],
+    [
+      "RIBAS DO RIO PARDO",
+      25
+    ],
+    [
+      "VARZEA PAULISTA",
+      25
+    ],
+    [
+      "CABO FRIO",
+      24
+    ],
+    [
+      "CAJURU",
+      24
+    ],
+    [
+      "CAMPOS DOS GOYTACAZES",
+      24
+    ],
+    [
+      "CUBATAO",
+      24
+    ],
+    [
+      "ENGENHEIRO COELHO",
+      24
+    ],
+    [
+      "GUARAPUAVA",
+      24
+    ],
+    [
+      "ILHABELA",
+      24
+    ],
+    [
+      "SANTA VITORIA",
+      24
+    ],
+    [
+      "VARGINHA",
+      24
+    ],
+    [
+      "AGUA CLARA",
+      23
+    ],
+    [
+      "ARTUR NOGUEIRA",
+      23
+    ],
+    [
+      "DUQUE DE CAXIAS",
+      23
+    ],
+    [
+      "ESPIRITO SANTO DO TURVO",
+      23
+    ],
+    [
+      "JANDIRA",
+      23
+    ],
+    [
+      "PARAISO DAS AGUAS",
+      23
+    ],
+    [
+      "PEDREGULHO",
+      23
+    ],
+    [
+      "POMPEIA",
+      23
+    ],
+    [
+      "SANTA CRUZ DAS PALMEIRAS",
+      23
+    ],
+    [
+      "SELVIRIA",
+      23
+    ],
+    [
+      "AGUAI",
+      22
+    ],
+    [
+      "CAMBORIU",
+      22
+    ],
+    [
+      "CASA BRANCA",
+      22
+    ],
+    [
+      "COMENDADOR GOMES",
+      22
+    ],
+    [
+      "CRICIUMA",
+      22
+    ],
+    [
+      "DOBRADA",
+      22
+    ],
+    [
+      "DOURADO",
+      22
+    ],
+    [
+      "FERRAZ DE VASCONCELOS",
+      22
+    ],
+    [
+      "IBATE",
+      22
+    ],
+    [
+      "MONTE ALEGRE DE MINAS",
+      22
+    ],
+    [
+      "SARANDI",
+      22
+    ],
+    [
+      "ALFENAS",
+      21
+    ],
+    [
+      "CAMPINA GRANDE",
+      21
+    ],
+    [
+      "GURUPI",
+      21
+    ],
+    [
+      "ITAJU",
+      21
+    ],
+    [
+      "ITAPEMA",
+      21
+    ],
+    [
+      "JABOATAO DOS GUARARAPES",
+      21
+    ],
+    [
+      "LIVRAMENTO DE NOSSA SENHORA",
+      21
+    ],
+    [
+      "LUIS ANTONIO",
+      21
+    ],
+    [
+      "MONTE MOR",
+      21
+    ],
+    [
+      "NOVO HAMBURGO",
+      21
+    ],
+    [
+      "QUINTANA",
+      21
+    ],
+    [
+      "SANTA MARIA",
+      21
+    ],
+    [
+      "VERA CRUZ",
+      21
+    ],
+    [
+      "ARUJA",
+      20
+    ],
+    [
+      "CACU",
+      20
+    ],
+    [
+      "CAMPO LIMPO PAULISTA",
+      20
+    ],
+    [
+      "CORDEIROPOLIS",
+      20
+    ],
+    [
+      "EXTREMA",
+      20
+    ],
+    [
+      "GOVERNADOR VALADARES",
+      20
+    ],
+    [
+      "INUBIA PAULISTA",
+      20
+    ],
+    [
+      "LAGOA SANTA",
+      20
+    ],
+    [
+      "PARAGUACU PAULISTA",
+      20
+    ],
+    [
+      "PATROCINIO",
+      20
+    ],
+    [
+      "PRESIDENTE ALVES",
+      20
+    ],
+    [
+      "QUERENCIA",
+      20
+    ],
+    [
+      "SANTA HELENA DE GOIAS",
+      20
+    ],
+    [
+      "SANTA RITA DO PASSA QUATRO",
+      20
+    ],
+    [
+      "SANTAREM",
+      20
+    ],
+    [
+      "AVAI",
+      19
+    ],
+    [
+      "BARREIRAS",
+      19
+    ],
+    [
+      "BATAGUASSU",
+      19
+    ],
+    [
+      "BIGUACU",
+      19
+    ],
+    [
+      "CAXIAS DO SUL",
+      19
+    ],
+    [
+      "CERQUEIRA CESAR",
+      19
+    ],
+    [
+      "CRUZEIRO",
+      19
+    ],
+    [
+      "ITARUMA",
+      19
+    ],
+    [
+      "MACAPA",
+      19
+    ],
+    [
+      "MARABA PAULISTA",
+      19
+    ],
+    [
+      "MONGAGUA",
+      19
+    ],
+    [
+      "NOVA MUTUM",
+      19
+    ],
+    [
+      "PARANAVAI",
+      19
+    ],
+    [
+      "PEDREIRA",
+      19
+    ],
+    [
+      "SENADOR CANEDO",
+      19
+    ],
+    [
+      "TOLEDO",
+      19
+    ],
+    [
+      "VARGEM GRANDE DO SUL",
+      19
+    ],
+    [
+      "VOLTA REDONDA",
+      19
+    ],
+    [
+      "BALBINOS",
+      18
+    ],
+    [
+      "CAIEIRAS",
+      18
+    ],
+    [
+      "CAMPO MOURAO",
+      18
+    ],
+    [
+      "CAPIVARI",
+      18
+    ],
+    [
+      "GRAVATAI",
+      18
+    ],
+    [
+      "ITAPECERICA DA SERRA",
+      18
+    ],
+    [
+      "ITAPEVA",
+      18
+    ],
+    [
+      "JI-PARANA",
+      18
+    ],
+    [
+      "NOVO PROGRESSO",
+      18
+    ],
+    [
+      "OURO FINO",
+      18
+    ],
+    [
+      "PEDERNEIRAS",
+      18
+    ],
+    [
+      "SANTA ROSA DE VITERBO",
+      18
+    ],
+    [
+      "SAO GONCALO",
+      18
+    ],
+    [
+      "SAO JOSE DO RIO PARDO",
+      18
+    ],
+    [
+      "UMUARAMA",
+      18
+    ],
+    [
+      "ALVARES MACHADO",
+      17
+    ],
+    [
+      "ARARENDA",
+      17
+    ],
+    [
+      "BILAC",
+      17
+    ],
+    [
+      "CARIACICA",
+      17
+    ],
+    [
+      "COXIM",
+      17
+    ],
+    [
+      "DOIS CORREGOS",
+      17
+    ],
+    [
+      "ITAPOA",
+      17
+    ],
+    [
+      "LAVRAS",
+      17
+    ],
+    [
+      "NOVA IGUACU",
+      17
+    ],
+    [
+      "PACATUBA",
+      17
+    ],
+    [
+      "PALMITAL",
+      17
+    ],
+    [
+      "PETROLINA",
+      17
+    ],
+    [
+      "REGISTRO",
+      17
+    ],
+    [
+      "SOCORRO",
+      17
+    ],
+    [
+      "AMPARO",
+      16
+    ],
+    [
+      "ARAMINA",
+      16
+    ],
+    [
+      "CACOAL",
+      16
+    ],
+    [
+      "CAMPO NOVO DO PARECIS",
+      16
+    ],
+    [
+      "CANELA",
+      16
+    ],
+    [
+      "CORUMBA",
+      16
+    ],
+    [
+      "IBIUNA",
+      16
+    ],
+    [
+      "MORRINHOS",
+      16
+    ],
+    [
+      "OURO VERDE",
+      16
+    ],
+    [
+      "RIBEIRAO DAS NEVES",
+      16
+    ],
+    [
+      "TEIXEIRA DE FREITAS",
+      16
+    ],
+    [
+      "ALVORADA",
+      15
+    ],
+    [
+      "BARRA VELHA",
+      15
+    ],
+    [
+      "CAMPOS DO JORDAO",
+      15
+    ],
+    [
+      "CRISTALINA",
+      15
+    ],
+    [
+      "EMILIANOPOLIS",
+      15
+    ],
+    [
+      "GRAMADO",
+      15
+    ],
+    [
+      "GUATAPARA",
+      15
+    ],
+    [
+      "HERCULANDIA",
+      15
+    ],
+    [
+      "IACRI",
+      15
+    ],
+    [
+      "JUAZEIRO DO NORTE",
+      15
+    ],
+    [
+      "NOVA ANDRADINA",
+      15
+    ],
+    [
+      "PARATI",
+      15
+    ],
+    [
+      "RINCAO",
+      15
+    ],
+    [
+      "SANTA ERNESTINA",
+      15
+    ],
+    [
+      "SIMOES FILHO",
+      15
+    ],
+    [
+      "VARGEM GRANDE PAULISTA",
+      15
+    ],
+    [
+      "BASTOS",
+      14
+    ],
+    [
+      "BOCAINA",
+      14
+    ],
+    [
+      "BONITO",
+      14
+    ],
+    [
+      "CANDIDO MOTA",
+      14
+    ],
+    [
+      "CARUARU",
+      14
+    ],
+    [
+      "DOM ELISEU",
+      14
+    ],
+    [
+      "GLICERIO",
+      14
+    ],
+    [
+      "LAGES",
+      14
+    ],
+    [
+      "MAIRIPORA",
+      14
+    ],
+    [
+      "NOVA EUROPA",
+      14
+    ],
+    [
+      "PIRAPOZINHO",
+      14
+    ],
+    [
+      "PIUMHI",
+      14
+    ],
+    [
+      "POA",
+      14
+    ],
+    [
+      "PORTO FELIZ",
+      14
+    ],
+    [
+      "QUATA",
+      14
+    ],
+    [
+      "RIO GRANDE",
+      14
+    ],
+    [
+      "SACRAMENTO",
+      14
+    ],
+    [
+      "ALTO ARAGUAIA",
+      13
+    ],
+    [
+      "BALSAS",
+      13
+    ],
+    [
+      "CANARANA",
+      13
+    ],
+    [
+      "CASSIA",
+      13
+    ],
+    [
+      "CLEMENTINA",
+      13
+    ],
+    [
+      "CORNELIO PROCOPIO",
+      13
+    ],
+    [
+      "CUNHA",
+      13
+    ],
+    [
+      "FORMOSA",
+      13
+    ],
+    [
+      "GUARAREMA",
+      13
+    ],
+    [
+      "LUCIANOPOLIS",
+      13
+    ],
+    [
+      "LUTECIA",
+      13
+    ],
+    [
+      "MIRASSOL D'OESTE",
+      13
+    ],
+    [
+      "MONTE CARMELO",
+      13
+    ],
+    [
+      "NUPORANGA",
+      13
+    ],
+    [
+      "PATO BRANCO",
+      13
+    ],
+    [
+      "PIRAJUBA",
+      13
+    ],
+    [
+      "PORTO NACIONAL",
+      13
+    ],
+    [
+      "SANTO ANTONIO DA ALEGRIA",
+      13
+    ],
+    [
+      "TRABIJU",
+      13
+    ],
+    [
+      "UNAI",
+      13
+    ],
+    [
+      "VALENCA",
+      13
+    ],
+    [
+      "AGUA COMPRIDA",
+      12
+    ],
+    [
+      "AGUAS DE LINDOIA",
+      12
+    ],
+    [
+      "AQUIDAUANA",
+      12
+    ],
+    [
+      "ARACARIGUAMA",
+      12
+    ],
+    [
+      "ARCO-IRIS",
+      12
+    ],
+    [
+      "BARRA DO BUGRES",
+      12
+    ],
+    [
+      "BURITIZAL",
+      12
+    ],
+    [
+      "CABRALIA PAULISTA",
+      12
+    ],
+    [
+      "CACHOEIRINHA",
+      12
+    ],
+    [
+      "CACHOEIRO DE ITAPEMIRIM",
+      12
+    ],
+    [
+      "CACULE",
+      12
+    ],
+    [
+      "CASTANHAL",
+      12
+    ],
+    [
+      "CERQUILHO",
+      12
+    ],
+    [
+      "COLATINA",
+      12
+    ],
+    [
+      "CONFRESA",
+      12
+    ],
+    [
+      "CRATEUS",
+      12
+    ],
+    [
+      "EUCLIDES DA CUNHA PAULISTA",
+      12
+    ],
+    [
+      "GAVIAO PEIXOTO",
+      12
+    ],
+    [
+      "ITAI",
+      12
+    ],
+    [
+      "ITARARE",
+      12
+    ],
+    [
+      "ITATINGA",
+      12
+    ],
+    [
+      "JUINA",
+      12
+    ],
+    [
+      "LAGARTO",
+      12
+    ],
+    [
+      "MACATUBA",
+      12
+    ],
+    [
+      "NAVIRAI",
+      12
+    ],
+    [
+      "PALMEIRAS DE GOIAS",
+      12
+    ],
+    [
+      "PIACATU",
+      12
+    ],
+    [
+      "QUEIROZ",
+      12
+    ],
+    [
+      "SANTA MERCEDES",
+      12
+    ],
+    [
+      "SAO FRANCISCO DO SUL",
+      12
+    ],
+    [
+      "TIETE",
+      12
+    ],
+    [
+      "TUPACIGUARA",
+      12
+    ],
+    [
+      "UNIAO DE MINAS",
+      12
+    ],
+    [
+      "ALAGOINHAS",
+      11
+    ],
+    [
+      "ALCINOPOLIS",
+      11
+    ],
+    [
+      "ARIQUEMES",
+      11
+    ],
+    [
+      "CACERES",
+      11
+    ],
+    [
+      "CACHOEIRA PAULISTA",
+      11
+    ],
+    [
+      "CAIABU",
+      11
+    ],
+    [
+      "CAMBE",
+      11
+    ],
+    [
+      "CAMPO VERDE",
+      11
+    ],
+    [
+      "CAPITOLIO",
+      11
+    ],
+    [
+      "CONCHAS",
+      11
+    ],
+    [
+      "GOIANESIA",
+      11
+    ],
+    [
+      "GUAXUPE",
+      11
+    ],
+    [
+      "ILHEUS",
+      11
+    ],
+    [
+      "JUAZEIRO",
+      11
+    ],
+    [
+      "LARANJAL PAULISTA",
+      11
+    ],
+    [
+      "LUIZIANIA",
+      11
+    ],
+    [
+      "MACAE",
+      11
+    ],
+    [
+      "NOVA CRIXAS",
+      11
+    ],
+    [
+      "NOVO MUNDO",
+      11
+    ],
+    [
+      "OCAUCU",
+      11
+    ],
+    [
+      "OURO PRETO",
+      11
+    ],
+    [
+      "PARACATU",
+      11
+    ],
+    [
+      "PASSO FUNDO",
+      11
+    ],
+    [
+      "PENALVA",
+      11
+    ],
+    [
+      "PENHA",
+      11
+    ],
+    [
+      "PERDIZES",
+      11
+    ],
+    [
+      "PRINCESA ISABEL",
+      11
+    ],
+    [
+      "RIO VERDE DE MATO GROSSO",
+      11
+    ],
+    [
+      "TRINDADE",
+      11
+    ],
+    [
+      "ABAETETUBA",
+      10
+    ],
+    [
+      "ALTAMIRA",
+      10
+    ],
+    [
+      "ARAPIRACA",
+      10
+    ],
+    [
+      "ARAUCARIA",
+      10
+    ],
+    [
+      "ARCOS",
+      10
+    ],
+    [
+      "BANDEIRANTES",
+      10
+    ],
+    [
+      "BARRA MANSA",
+      10
+    ],
+    [
+      "BOM JESUS DE GOIAS",
+      10
+    ],
+    [
+      "BRASNORTE",
+      10
+    ],
+    [
+      "BRAUNA",
+      10
+    ],
+    [
+      "CABO DE SANTO AGOSTINHO",
+      10
+    ],
+    [
+      "CHUPINGUAIA",
+      10
+    ],
+    [
+      "EUNAPOLIS",
+      10
+    ],
+    [
+      "GARANHUNS",
+      10
+    ],
+    [
+      "GAUCHA DO NORTE",
+      10
+    ],
+    [
+      "GUARAPARI",
+      10
+    ],
+    [
+      "GUIMARANIA",
+      10
+    ],
+    [
+      "INDAIAL",
+      10
+    ],
+    [
+      "INHUMAS",
+      10
+    ],
+    [
+      "IPATINGA",
+      10
+    ],
+    [
+      "ITAJUBA",
+      10
+    ],
+    [
+      "JANAUBA",
+      10
+    ],
+    [
+      "JERIQUARA",
+      10
+    ],
+    [
+      "JULIO MESQUITA",
+      10
+    ],
+    [
+      "LINHARES",
+      10
+    ],
+    [
+      "MAIRINQUE",
+      10
+    ],
+    [
+      "MIRANTE DO PARANAPANEMA",
+      10
+    ],
+    [
+      "NOVA LIMA",
+      10
+    ],
+    [
+      "PARANAPANEMA",
+      10
+    ],
+    [
+      "PARNAMIRIM",
+      10
+    ],
+    [
+      "PAULISTA",
+      10
+    ],
+    [
+      "PONTALINA",
+      10
+    ],
+    [
+      "PORTO MURTINHO",
+      10
+    ],
+    [
+      "RIBEIRAO CASCALHEIRA",
+      10
+    ],
+    [
+      "SANTO ANTONIO DA PLATINA",
+      10
+    ],
+    [
+      "SANTOPOLIS DO AGUAPEI",
+      10
+    ],
+    [
+      "SAO PEDRO DO TURVO",
+      10
+    ],
+    [
+      "SERRA NEGRA",
+      10
+    ],
+    [
+      "TUPI PAULISTA",
+      10
+    ],
+    [
+      "AMAMBAI",
+      9
+    ],
+    [
+      "APUCARANA",
+      9
+    ],
+    [
+      "BOM JESUS DOS PERDOES",
+      9
+    ],
+    [
+      "CAMPO BELO",
+      9
+    ],
+    [
+      "CAPAO BONITO",
+      9
+    ],
+    [
+      "CAPINOPOLIS",
+      9
+    ],
+    [
+      "CESARIO LANGE",
+      9
+    ],
+    [
+      "CORUMBATAI",
+      9
+    ],
+    [
+      "CRISTAIS PAULISTA",
+      9
+    ],
+    [
+      "FRANCISCO BELTRAO",
+      9
+    ],
+    [
+      "GOIATUBA",
+      9
+    ],
+    [
+      "GUAPIARA",
+      9
+    ],
+    [
+      "IBIPORA",
+      9
+    ],
+    [
+      "IRECE",
+      9
+    ],
+    [
+      "ITABAIANA",
+      9
+    ],
+    [
+      "ITAPERUNA",
+      9
+    ],
+    [
+      "ITIRAPINA",
+      9
+    ],
+    [
+      "ITUBERA",
+      9
+    ],
+    [
+      "JACAREZINHO",
+      9
+    ],
+    [
+      "JEQUIE",
+      9
+    ],
+    [
+      "JOAO PINHEIRO",
+      9
+    ],
+    [
+      "JUARA",
+      9
+    ],
+    [
+      "MATUPA",
+      9
+    ],
+    [
+      "MONTE CASTELO",
+      9
+    ],
+    [
+      "NOVA SERRANA",
+      9
+    ],
+    [
+      "OLIVEIRA",
+      9
+    ],
+    [
+      "PARA DE MINAS",
+      9
+    ],
+    [
+      "PARAISO DO TOCANTINS",
+      9
+    ],
+    [
+      "PETROPOLIS",
+      9
+    ],
+    [
+      "PIRAJU",
+      9
+    ],
+    [
+      "PIRATININGA",
+      9
+    ],
+    [
+      "PORTO ALEGRE DO NORTE",
+      9
+    ],
+    [
+      "REGENTE FEIJO",
+      9
+    ],
+    [
+      "RESTINGA",
+      9
+    ],
+    [
+      "ROLIM DE MOURA",
+      9
+    ],
+    [
+      "SALTO DE PIRAPORA",
+      9
+    ],
+    [
+      "SANTA GERTRUDES",
+      9
+    ],
+    [
+      "SANTA JULIANA",
+      9
+    ],
+    [
+      "SANTA LUCIA",
+      9
+    ],
+    [
+      "SAO JOAO DEL REI",
+      9
+    ],
+    [
+      "SAO JOSE DA BELA VISTA",
+      9
+    ],
+    [
+      "SAO JOSE DOS QUATRO MARCOS",
+      9
+    ],
+    [
+      "SERRANOPOLIS",
+      9
+    ],
+    [
+      "SETE LAGOAS",
+      9
+    ],
+    [
+      "SOBRAL",
+      9
+    ],
+    [
+      "TRES CORACOES",
+      9
+    ],
+    [
+      "VICOSA",
+      9
+    ],
+    [
+      "AGUAS DE SAO PEDRO",
+      8
+    ],
+    [
+      "ANALANDIA",
+      8
+    ],
+    [
+      "ANGRA DOS REIS",
+      8
+    ],
+    [
+      "ARAQUARI",
+      8
+    ],
+    [
+      "BENTO DE ABREU",
+      8
+    ],
+    [
+      "BRASILANDIA",
+      8
+    ],
+    [
+      "CABREUVA",
+      8
+    ],
+    [
+      "CACONDE",
+      8
+    ],
+    [
+      "CAMPOS NOVOS PAULISTA",
+      8
+    ],
+    [
+      "CAPITAO POCO",
+      8
+    ],
+    [
+      "CHARQUEADA",
+      8
+    ],
+    [
+      "DELFINOPOLIS",
+      8
+    ],
+    [
+      "DIAMANTINO",
+      8
+    ],
+    [
+      "DOIS IRMAOS DO BURITI",
+      8
+    ],
+    [
+      "ELIAS FAUSTO",
+      8
+    ],
+    [
+      "FORMIGA",
+      8
+    ],
+    [
+      "GASPAR",
+      8
+    ],
+    [
+      "IMBITUBA",
+      8
+    ],
+    [
+      "JACUTINGA",
+      8
+    ],
+    [
+      "JAGUAQUARA",
+      8
+    ],
+    [
+      "JARINU",
+      8
+    ],
+    [
+      "LAGOA DA PRATA",
+      8
+    ],
+    [
+      "LUZIANIA",
+      8
+    ],
+    [
+      "MARICA",
+      8
+    ],
+    [
+      "MONTE ALEGRE",
+      8
+    ],
+    [
+      "MOSSORO",
+      8
+    ],
+    [
+      "NOSSA SENHORA DO SOCORRO",
+      8
+    ],
+    [
+      "NOVA XAVANTINA",
+      8
+    ],
+    [
+      "OLINDA",
+      8
+    ],
+    [
+      "PARAPUA",
+      8
+    ],
+    [
+      "PEDRA AZUL",
+      8
+    ],
+    [
+      "PIEDADE",
+      8
+    ],
+    [
+      "PINHALZINHO",
+      8
+    ],
+    [
+      "PIRENOPOLIS",
+      8
+    ],
+    [
+      "PONTAL DO PARANA",
+      8
+    ],
+    [
+      "REDENCAO",
+      8
+    ],
+    [
+      "ROLANDIA",
+      8
+    ],
+    [
+      "SAGRES",
+      8
+    ],
+    [
+      "SAO FELIX DO XINGU",
+      8
+    ],
+    [
+      "SAO GABRIEL DO OESTE",
+      8
+    ],
+    [
+      "SAO JOSE DO XINGU",
+      8
+    ],
+    [
+      "SAO MIGUEL ARCANJO",
+      8
+    ],
+    [
+      "SAPEZAL",
+      8
+    ],
+    [
+      "TREMEMBE",
+      8
+    ],
+    [
+      "VARZEA DA PALMA",
+      8
+    ],
+    [
+      "AGUAS LINDAS DE GOIAS",
+      7
+    ],
+    [
+      "ALPINOPOLIS",
+      7
+    ],
+    [
+      "ALTO PARAISO DE GOIAS",
+      7
+    ],
+    [
+      "ANDRADAS",
+      7
+    ],
+    [
+      "BARRO ALTO",
+      7
+    ],
+    [
+      "BOFETE",
+      7
+    ],
+    [
+      "CAMAPUA",
+      7
+    ],
+    [
+      "CAMBUI",
+      7
+    ],
+    [
+      "CAMPO ALEGRE DE GOIAS",
+      7
+    ],
+    [
+      "CAMPOS GERAIS",
+      7
+    ],
+    [
+      "CANAA DOS CARAJAS",
+      7
+    ],
+    [
+      "CANAPOLIS",
+      7
+    ],
+    [
+      "CANDEIAS",
+      7
+    ],
+    [
+      "CAPETINGA",
+      7
+    ],
+    [
+      "CONCHAL",
+      7
+    ],
+    [
+      "DOURADINA",
+      7
+    ],
+    [
+      "FERNAO",
+      7
+    ],
+    [
+      "IBIRACI",
+      7
+    ],
+    [
+      "ILHA COMPRIDA",
+      7
+    ],
+    [
+      "INHAMBUPE",
+      7
+    ],
+    [
+      "IPIRANGA DO NORTE",
+      7
+    ],
+    [
+      "ITABORAI",
+      7
+    ],
+    [
+      "ITAPUI",
+      7
+    ],
+    [
+      "JARDIM",
+      7
+    ],
+    [
+      "MANDAGUACU",
+      7
+    ],
+    [
+      "MAURILANDIA",
+      7
+    ],
+    [
+      "NOVA INDEPENDENCIA",
+      7
+    ],
+    [
+      "NOVA OLIMPIA",
+      7
+    ],
+    [
+      "PALMAS DE MONTE ALTO",
+      7
+    ],
+    [
+      "PALOTINA",
+      7
+    ],
+    [
+      "PARANAIGUARA",
+      7
+    ],
+    [
+      "PARIQUERA-ACU",
+      7
+    ],
+    [
+      "PAULICEIA",
+      7
+    ],
+    [
+      "PAULISTANIA",
+      7
+    ],
+    [
+      "PEREIRAS",
+      7
+    ],
+    [
+      "PINHAIS",
+      7
+    ],
+    [
+      "PIRACAIA",
+      7
+    ],
+    [
+      "RIO DAS OSTRAS",
+      7
+    ],
+    [
+      "RIO DAS PEDRAS",
+      7
+    ],
+    [
+      "SANTO ANTONIO DE POSSE",
+      7
+    ],
+    [
+      "SANTO ANTONIO DO LEVERGER",
+      7
+    ],
+    [
+      "SAO BENTO DO SUL",
+      7
+    ],
+    [
+      "SAO LEOPOLDO",
+      7
+    ],
+    [
+      "SIDROLANDIA",
+      7
+    ],
+    [
+      "TAQUARA",
+      7
+    ],
+    [
+      "TUCUMA",
+      7
+    ],
+    [
+      "ULIANOPOLIS",
+      7
+    ],
+    [
+      "VALPARAISO DE GOIAS",
+      7
+    ],
+    [
+      "VIAMAO",
+      7
+    ],
+    [
+      "VITORIA DO XINGU",
+      7
+    ],
+    [
+      "ACREUNA",
+      6
+    ],
+    [
+      "ALAMBARI",
+      6
+    ],
+    [
+      "ALTO GARCAS",
+      6
+    ],
+    [
+      "ANANAS",
+      6
+    ],
+    [
+      "APARECIDA",
+      6
+    ],
+    [
+      "ARACOIABA DA SERRA",
+      6
+    ],
+    [
+      "ARACRUZ",
+      6
+    ],
+    [
+      "BARCARENA",
+      6
+    ],
+    [
+      "BOCA DA MATA",
+      6
+    ],
+    [
+      "BORACEIA",
+      6
+    ],
+    [
+      "CAARAPO",
+      6
+    ],
+    [
+      "CAETITE",
+      6
+    ],
+    [
+      "CAMANDUCAIA",
+      6
+    ],
+    [
+      "CAMPO LARGO",
+      6
+    ],
+    [
+      "CANINDE",
+      6
+    ],
+    [
+      "CASTRO",
+      6
+    ],
+    [
+      "CLAUDIA",
+      6
+    ],
+    [
+      "COLIDER",
+      6
+    ],
+    [
+      "COLOMBO",
+      6
+    ],
+    [
+      "COLORADO",
+      6
+    ],
+    [
+      "CONQUISTA",
+      6
+    ],
+    [
+      "CONSELHEIRO LAFAIETE",
+      6
+    ],
+    [
+      "DIAS D'AVILA",
+      6
+    ],
+    [
+      "DIVINOLANDIA",
+      6
+    ],
+    [
+      "EDEIA",
+      6
+    ],
+    [
+      "FARTURA",
+      6
+    ],
+    [
+      "FAZENDA RIO GRANDE",
+      6
+    ],
+    [
+      "GUAJARA-MIRIM",
+      6
+    ],
+    [
+      "GUARAI",
+      6
+    ],
+    [
+      "GUARANESIA",
+      6
+    ],
+    [
+      "GUAREI",
+      6
+    ],
+    [
+      "IGUAPE",
+      6
+    ],
+    [
+      "IPERO",
+      6
+    ],
+    [
+      "IPORA",
+      6
+    ],
+    [
+      "IRACEMAPOLIS",
+      6
+    ],
+    [
+      "IRATI",
+      6
+    ],
+    [
+      "ITABUNA",
+      6
+    ],
+    [
+      "ITAITUBA",
+      6
+    ],
+    [
+      "ITAUNA",
+      6
+    ],
+    [
+      "IVAIPORA",
+      6
+    ],
+    [
+      "MARACAJU",
+      6
+    ],
+    [
+      "MARITUBA",
+      6
+    ],
+    [
+      "MATINHOS",
+      6
+    ],
+    [
+      "NOVA PONTE",
+      6
+    ],
+    [
+      "PARANATINGA",
+      6
+    ],
+    [
+      "PARECIS",
+      6
+    ],
+    [
+      "PEDRA PRETA",
+      6
+    ],
+    [
+      "PEIXOTO DE AZEVEDO",
+      6
+    ],
+    [
+      "PIMENTA BUENO",
+      6
+    ],
+    [
+      "PIRANHAS",
+      6
+    ],
+    [
+      "PIRAQUARA",
+      6
+    ],
+    [
+      "PIRES DO RIO",
+      6
+    ],
+    [
+      "POCONE",
+      6
+    ],
+    [
+      "PONTAL DO ARAGUAIA",
+      6
+    ],
+    [
+      "PONTE NOVA",
+      6
+    ],
+    [
+      "PRATANIA",
+      6
+    ],
+    [
+      "QUIXERE",
+      6
+    ],
+    [
+      "RIBEIRAO CORRENTE",
+      6
+    ],
+    [
+      "RIBEIRAO PIRES",
+      6
+    ],
+    [
+      "RIFAINA",
+      6
+    ],
+    [
+      "SALMOURAO",
+      6
+    ],
+    [
+      "SANDOVALINA",
+      6
+    ],
+    [
+      "SANTA CARMEM",
+      6
+    ],
+    [
+      "SANTA CRUZ DO SUL",
+      6
+    ],
+    [
+      "SANTA INES",
+      6
+    ],
+    [
+      "SANTO ANTONIO DE GOIAS",
+      6
+    ],
+    [
+      "SAO GOTARDO",
+      6
+    ],
+    [
+      "SAO JOSE DO RIO CLARO",
+      6
+    ],
+    [
+      "TAPIRATIBA",
+      6
+    ],
+    [
+      "TEOTONIO VILELA",
+      6
+    ],
+    [
+      "TORRINHA",
+      6
+    ],
+    [
+      "TUCANO",
+      6
+    ],
+    [
+      "VIANA",
+      6
+    ],
+    [
+      "ACAILANDIA",
+      5
+    ],
+    [
+      "AFONSO CLAUDIO",
+      5
+    ],
+    [
+      "ALEGRETE",
+      5
+    ],
+    [
+      "AQUIRAZ",
+      5
+    ],
+    [
+      "ARAGARCAS",
+      5
+    ],
+    [
+      "ARANDU",
+      5
+    ],
+    [
+      "ARAPUTANGA",
+      5
+    ],
+    [
+      "ARCEBURGO",
+      5
+    ],
+    [
+      "ARCOVERDE",
+      5
+    ],
+    [
+      "BALNEARIO DE PICARRAS",
+      5
+    ],
+    [
+      "BOA ESPERANCA",
+      5
+    ],
+    [
+      "BREJO ALEGRE",
+      5
+    ],
+    [
+      "CAMPO ALEGRE",
+      5
+    ],
+    [
+      "CARMO DO PARANAIBA",
+      5
+    ],
+    [
+      "COCOS",
+      5
+    ],
+    [
+      "CODO",
+      5
+    ],
+    [
+      "COROATA",
+      5
+    ],
+    [
+      "COROMANDEL",
+      5
+    ],
+    [
+      "CORRENTE",
+      5
+    ],
+    [
+      "CORRENTINA",
+      5
+    ],
+    [
+      "CORURIPE",
+      5
+    ],
+    [
+      "CRATO",
+      5
+    ],
+    [
+      "CRUZEIRO DO SUL",
+      5
+    ],
+    [
+      "DEODAPOLIS",
+      5
+    ],
+    [
+      "ELDORADO",
+      5
+    ],
+    [
+      "ERECHIM",
+      5
+    ],
+    [
+      "ESTANCIA",
+      5
+    ],
+    [
+      "ESTRELA DO NORTE",
+      5
+    ],
+    [
+      "FATIMA DO SUL",
+      5
+    ],
+    [
+      "FLORA RICA",
+      5
+    ],
+    [
+      "GAROPABA",
+      5
+    ],
+    [
+      "GUARANTA DO NORTE",
+      5
+    ],
+    [
+      "HIDROLANDIA",
+      5
+    ],
+    [
+      "HOLAMBRA",
+      5
+    ],
+    [
+      "IJUI",
+      5
+    ],
+    [
+      "ITAPIPOCA",
+      5
+    ],
+    [
+      "ITAPORANGA",
+      5
+    ],
+    [
+      "ITAU DE MINAS",
+      5
+    ],
+    [
+      "ITIQUIRA",
+      5
+    ],
+    [
+      "IVINHEMA",
+      5
+    ],
+    [
+      "JACOBINA",
+      5
+    ],
+    [
+      "JACUPIRANGA",
+      5
+    ],
+    [
+      "JEQUITINHONHA",
+      5
+    ],
+    [
+      "JUQUIA",
+      5
+    ],
+    [
+      "JURU",
+      5
+    ],
+    [
+      "LUPERCIO",
+      5
+    ],
+    [
+      "MARACANAU",
+      5
+    ],
+    [
+      "MARACAS",
+      5
+    ],
+    [
+      "MARCELANDIA",
+      5
+    ],
+    [
+      "MEDIANEIRA",
+      5
+    ],
+    [
+      "MINEIROS DO TIETE",
+      5
+    ],
+    [
+      "MONTE ALEGRE DO SUL",
+      5
+    ],
+    [
+      "MONTE SIAO",
+      5
+    ],
+    [
+      "MOTUCA",
+      5
+    ],
+    [
+      "MUNDO NOVO",
+      5
+    ],
+    [
+      "NILOPOLIS",
+      5
+    ],
+    [
+      "NOVA MARILANDIA",
+      5
+    ],
+    [
+      "NOVA MONTE VERDE",
+      5
+    ],
+    [
+      "NOVA SANTA RITA",
+      5
+    ],
+    [
+      "NOVA UBIRATA",
+      5
+    ],
+    [
+      "OURO PRETO DO OESTE",
+      5
+    ],
+    [
+      "PAICANDU",
+      5
+    ],
+    [
+      "PALMEIRA DAS MISSOES",
+      5
+    ],
+    [
+      "PARDINHO",
+      5
+    ],
+    [
+      "PATOS",
+      5
+    ],
+    [
+      "PAULO AFONSO",
+      5
+    ],
+    [
+      "PIRAI",
+      5
+    ],
+    [
+      "PLATINA",
+      5
+    ],
+    [
+      "PORANGATU",
+      5
+    ],
+    [
+      "REGENERACAO",
+      5
+    ],
+    [
+      "RESENDE",
+      5
+    ],
+    [
+      "RIO BRILHANTE",
+      5
+    ],
+    [
+      "ROSEIRA",
+      5
+    ],
+    [
+      "SALTINHO",
+      5
+    ],
+    [
+      "SANTA ROSA",
+      5
+    ],
+    [
+      "SANTO ANASTACIO",
+      5
+    ],
+    [
+      "SANTO ANTONIO DO AMPARO",
+      5
+    ],
+    [
+      "SANTO ANTONIO DO PINHAL",
+      5
+    ],
+    [
+      "SAO GABRIEL",
+      5
+    ],
+    [
+      "SAO GERALDO DO ARAGUAIA",
+      5
+    ],
+    [
+      "SAO GONCALO DO AMARANTE",
+      5
+    ],
+    [
+      "SAO JOAO D'ALIANCA",
+      5
+    ],
+    [
+      "SAO RAIMUNDO NONATO",
+      5
+    ],
+    [
+      "SAO ROQUE DE MINAS",
+      5
+    ],
+    [
+      "SAPUCAIA DO SUL",
+      5
+    ],
+    [
+      "SERRA AZUL",
+      5
+    ],
+    [
+      "SERRA TALHADA",
+      5
+    ],
+    [
+      "SETE BARRAS",
+      5
+    ],
+    [
+      "SIQUEIRA CAMPOS",
+      5
+    ],
+    [
+      "SOUSA",
+      5
+    ],
+    [
+      "TAPEJARA",
+      5
+    ],
+    [
+      "TAQUARITUBA",
+      5
+    ],
+    [
+      "TELEMACO BORBA",
+      5
+    ],
+    [
+      "TERRA RICA",
+      5
+    ],
+    [
+      "TIBAU DO SUL",
+      5
+    ],
+    [
+      "TRES RIOS",
+      5
+    ],
+    [
+      "TURVO",
+      5
+    ],
+    [
+      "UBIRATA",
+      5
+    ],
+    [
+      "URUACU",
+      5
+    ],
+    [
+      "URUGUAIANA",
+      5
+    ],
+    [
+      "URUSSANGA",
+      5
+    ],
+    [
+      "VIRGEM DA LAPA",
+      5
+    ],
+    [
+      "VITORIA DE SANTO ANTAO",
+      5
+    ],
+    [
+      "WANDERLANDIA",
+      5
+    ],
+    [
+      "AGUAS DA PRATA",
+      4
+    ],
+    [
+      "ALIANCA",
+      4
+    ],
+    [
+      "ANAURILANDIA",
+      4
+    ],
+    [
+      "ANGATUBA",
+      4
+    ],
+    [
+      "ANICUNS",
+      4
+    ],
+    [
+      "ARAGUAIANA",
+      4
+    ],
+    [
+      "ARENAPOLIS",
+      4
+    ],
+    [
+      "ARMACAO DOS BUZIOS",
+      4
+    ],
+    [
+      "ARROIO GRANDE",
+      4
+    ],
+    [
+      "ASTORGA",
+      4
+    ],
+    [
+      "BAGE",
+      4
+    ],
+    [
+      "BARRA DOS COQUEIROS",
+      4
+    ],
+    [
+      "BENTO GONCALVES",
+      4
+    ],
+    [
+      "BERNARDINO DE CAMPOS",
+      4
+    ],
+    [
+      "BIRITIBA-MIRIM",
+      4
+    ],
+    [
+      "BOM JESUS DO OESTE",
+      4
+    ],
+    [
+      "BOREBI",
+      4
+    ],
+    [
+      "BRUMADO",
+      4
+    ],
+    [
+      "BURI",
+      4
+    ],
+    [
+      "CAIAPONIA",
+      4
+    ],
+    [
+      "CAMPOS DE JULIO",
+      4
+    ],
+    [
+      "CANANEIA",
+      4
+    ],
+    [
+      "CAPELA DO ALTO",
+      4
+    ],
+    [
+      "CAROLINA",
+      4
+    ],
+    [
+      "COLINAS DO TOCANTINS",
+      4
+    ],
+    [
+      "CONCEICAO DO ARAGUAIA",
+      4
+    ],
+    [
+      "CONQUISTA D'OESTE",
+      4
+    ],
+    [
+      "CURVELO",
+      4
+    ],
+    [
+      "DELTA",
+      4
+    ],
+    [
+      "DIVINOPOLIS DO TOCANTINS",
+      4
+    ],
+    [
+      "ESCADA",
+      4
+    ],
+    [
+      "ESPINOSA",
+      4
+    ],
+    [
+      "EUSEBIO",
+      4
+    ],
+    [
+      "FLORESTOPOLIS",
+      4
+    ],
+    [
+      "FORTALEZA DE MINAS",
+      4
+    ],
+    [
+      "GABRIEL MONTEIRO",
+      4
+    ],
+    [
+      "GUABIRUBA",
+      4
+    ],
+    [
+      "GUAIBA",
+      4
+    ],
+    [
+      "GUIRATINGA",
+      4
+    ],
+    [
+      "IBIRITE",
+      4
+    ],
+    [
+      "IGARACU DO TIETE",
+      4
+    ],
+    [
+      "INDEPENDENCIA",
+      4
+    ],
+    [
+      "INDIARA",
+      4
+    ],
+    [
+      "IPOJUCA",
+      4
+    ],
+    [
+      "IRAPURU",
+      4
+    ],
+    [
+      "JARU",
+      4
+    ],
+    [
+      "JOACABA",
+      4
+    ],
+    [
+      "JOANOPOLIS",
+      4
+    ],
+    [
+      "JOAO MONLEVADE",
+      4
+    ],
+    [
+      "JUQUITIBA",
+      4
+    ],
+    [
+      "LAGOA DE ITAENGA",
+      4
+    ],
+    [
+      "LAGOA REAL",
+      4
+    ],
+    [
+      "LIMOEIRO",
+      4
+    ],
+    [
+      "MADALENA",
+      4
+    ],
+    [
+      "MAFRA",
+      4
+    ],
+    [
+      "MALHADA",
+      4
+    ],
+    [
+      "MANGARATIBA",
+      4
+    ],
+    [
+      "MANHUACU",
+      4
+    ],
+    [
+      "MARAU",
+      4
+    ],
+    [
+      "MARAVILHA",
+      4
+    ],
+    [
+      "MARECHAL DEODORO",
+      4
+    ],
+    [
+      "MARZAGAO",
+      4
+    ],
+    [
+      "MATA DE SAO JOAO",
+      4
+    ],
+    [
+      "MONTE BELO",
+      4
+    ],
+    [
+      "NOVA FRIBURGO",
+      4
+    ],
+    [
+      "NOVA LACERDA",
+      4
+    ],
+    [
+      "NOVA MARINGA",
+      4
+    ],
+    [
+      "NOVO HORIZONTE DO NORTE",
+      4
+    ],
+    [
+      "OLINDINA",
+      4
+    ],
+    [
+      "ORTIGUEIRA",
+      4
+    ],
+    [
+      "OURICURI",
+      4
+    ],
+    [
+      "OURO BRANCO",
+      4
+    ],
+    [
+      "PALMEIRA DOS INDIOS",
+      4
+    ],
+    [
+      "PARAIBA DO SUL",
+      4
+    ],
+    [
+      "PEIXE",
+      4
+    ],
+    [
+      "PENEDO",
+      4
+    ],
+    [
+      "PILAR DO SUL",
+      4
+    ],
+    [
+      "PIQUETE",
+      4
+    ],
+    [
+      "PIRIPIRI",
+      4
+    ],
+    [
+      "PITANGA",
+      4
+    ],
+    [
+      "POMERODE",
+      4
+    ],
+    [
+      "PONTE ALTA DO BOM JESUS",
+      4
+    ],
+    [
+      "PORTO BELO",
+      4
+    ],
+    [
+      "PRATAPOLIS",
+      4
+    ],
+    [
+      "RAFARD",
+      4
+    ],
+    [
+      "RIACHINHO",
+      4
+    ],
+    [
+      "RIACHO DE SANTANA",
+      4
+    ],
+    [
+      "RIO DO SUL",
+      4
+    ],
+    [
+      "RIO PARDO DE MINAS",
+      4
+    ],
+    [
+      "RUBIACEA",
+      4
+    ],
+    [
+      "SALTO GRANDE",
+      4
+    ],
+    [
+      "SANTA HELENA",
+      4
+    ],
+    [
+      "SANTA RITA DO SAPUCAI",
+      4
+    ],
+    [
+      "SANTANA",
+      4
+    ],
+    [
+      "SANTO AMARO DA IMPERATRIZ",
+      4
+    ],
+    [
+      "SANTO ANTONIO DE JESUS",
+      4
+    ],
+    [
+      "SAO BORJA",
+      4
+    ],
+    [
+      "SAO DESIDERIO",
+      4
+    ],
+    [
+      "SAO FELIX DO ARAGUAIA",
+      4
+    ],
+    [
+      "SAO JOAO DE MERITI",
+      4
+    ],
+    [
+      "SAO JOAO DO PAU D'ALHO",
+      4
+    ],
+    [
+      "SAO JOAO EVANGELISTA",
+      4
+    ],
+    [
+      "SAO LUIS DE MONTES BELOS",
+      4
+    ],
+    [
+      "SAO MIGUEL DOS CAMPOS",
+      4
+    ],
+    [
+      "SAO SEBASTIAO DA GRAMA",
+      4
+    ],
+    [
+      "SAPUCAI-MIRIM",
+      4
+    ],
+    [
+      "SARAPUI",
+      4
+    ],
+    [
+      "SEBASTIAO LARANJEIRAS",
+      4
+    ],
+    [
+      "SENGES",
+      4
+    ],
+    [
+      "SERRINHA",
+      4
+    ],
+    [
+      "SIMAO DIAS",
+      4
+    ],
+    [
+      "SOORETAMA",
+      4
+    ],
+    [
+      "TAGUAI",
+      4
+    ],
+    [
+      "TARUMA",
+      4
+    ],
+    [
+      "TIMBO",
+      4
+    ],
+    [
+      "TIMOTEO",
+      4
+    ],
+    [
+      "TOME-ACU",
+      4
+    ],
+    [
+      "TRES PONTAS",
+      4
+    ],
+    [
+      "TUBARAO",
+      4
+    ],
+    [
+      "TUIUTI",
+      4
+    ],
+    [
+      "UBA",
+      4
+    ],
+    [
+      "URANDI",
+      4
+    ],
+    [
+      "URUARA",
+      4
+    ],
+    [
+      "VARGEM GRANDE",
+      4
+    ],
+    [
+      "VERISSIMO",
+      4
+    ],
+    [
+      "VILA BELA DA SANTISSIMA TRINDADE",
+      4
+    ],
+    [
+      "XANXERE",
+      4
+    ],
+    [
+      "ABATIA",
+      3
+    ],
+    [
+      "ALTO ALEGRE DO PINDARE",
+      3
+    ],
+    [
+      "ALTONIA",
+      3
+    ],
+    [
+      "ANDIRA",
+      3
+    ],
+    [
+      "ARACUAI",
+      3
+    ],
+    [
+      "ARARANGUA",
+      3
+    ],
+    [
+      "ARARUAMA",
+      3
+    ],
+    [
+      "BAMBUI",
+      3
+    ],
+    [
+      "BANANAL",
+      3
+    ],
+    [
+      "BARAO DE ANTONINA",
+      3
+    ],
+    [
+      "BARBOSA FERRAZ",
+      3
+    ],
+    [
+      "BARREIRINHAS",
+      3
+    ],
+    [
+      "BELFORD ROXO",
+      3
+    ],
+    [
+      "BERILO",
+      3
+    ],
+    [
+      "BOA VENTURA",
+      3
+    ],
+    [
+      "BOA VISTA DO TUPIM",
+      3
+    ],
+    [
+      "BOM DESPACHO",
+      3
+    ],
+    [
+      "BOM JESUS DA LAPA",
+      3
+    ],
+    [
+      "BOMBINHAS",
+      3
+    ],
+    [
+      "BONOPOLIS",
+      3
+    ],
+    [
+      "BOQUIM",
+      3
+    ],
+    [
+      "BRAGANCA",
+      3
+    ],
+    [
+      "BRITANIA",
+      3
+    ],
+    [
+      "CABO VERDE",
+      3
+    ],
+    [
+      "CACHOEIRA",
+      3
+    ],
+    [
+      "CAICO",
+      3
+    ],
+    [
+      "CAMPINA GRANDE DO SUL",
+      3
+    ],
+    [
+      "CAPANEMA",
+      3
+    ],
+    [
+      "CAPINZAL DO NORTE",
+      3
+    ],
+    [
+      "CAPITAO LEONIDAS MARQUES",
+      3
+    ],
+    [
+      "CATU",
+      3
+    ],
+    [
+      "CATUJI",
+      3
+    ],
+    [
+      "CATURAMA",
+      3
+    ],
+    [
+      "CAUCAIA",
+      3
+    ],
+    [
+      "CEREJEIRAS",
+      3
+    ],
+    [
+      "CHAPADA",
+      3
+    ],
+    [
+      "CHAPADA DO NORTE",
+      3
+    ],
+    [
+      "CHAPADINHA",
+      3
+    ],
+    [
+      "CONCEICAO DO LAGO-ACU",
+      3
+    ],
+    [
+      "CONCORDIA",
+      3
+    ],
+    [
+      "CONDE",
+      3
+    ],
+    [
+      "CONDEUBA",
+      3
+    ],
+    [
+      "CRUZILIA",
+      3
+    ],
+    [
+      "CUJUBIM",
+      3
+    ],
+    [
+      "CURVELANDIA",
+      3
+    ],
+    [
+      "DAVINOPOLIS",
+      3
+    ],
+    [
+      "DELMIRO GOUVEIA",
+      3
+    ],
+    [
+      "EMBU-GUACU",
+      3
+    ],
+    [
+      "ESPLANADA",
+      3
+    ],
+    [
+      "ESTIVA GERBI",
+      3
+    ],
+    [
+      "ESTREITO",
+      3
+    ],
+    [
+      "ESTRELA",
+      3
+    ],
+    [
+      "EUCLIDES DA CUNHA",
+      3
+    ],
+    [
+      "FIGUEIRAO",
+      3
+    ],
+    [
+      "FORMOSA DO RIO PRETO",
+      3
+    ],
+    [
+      "FORMOSO DO ARAGUAIA",
+      3
+    ],
+    [
+      "GARUVA",
+      3
+    ],
+    [
+      "GOIAS",
+      3
+    ],
+    [
+      "GUAPO",
+      3
+    ],
+    [
+      "GUARAMIRIM",
+      3
+    ],
+    [
+      "GUARATUBA",
+      3
+    ],
+    [
+      "HUMAITA",
+      3
+    ],
+    [
+      "IARAS",
+      3
+    ],
+    [
+      "IBIAI",
+      3
+    ],
+    [
+      "IBITIARA",
+      3
+    ],
+    [
+      "INDIAROBA",
+      3
+    ],
+    [
+      "IPAMERI",
+      3
+    ],
+    [
+      "IPEUNA",
+      3
+    ],
+    [
+      "IPIXUNA DO PARA",
+      3
+    ],
+    [
+      "IPU",
+      3
+    ],
+    [
+      "IRAI DE MINAS",
+      3
+    ],
+    [
+      "IRUPI",
+      3
+    ],
+    [
+      "ITABERA",
+      3
+    ],
+    [
+      "ITABERAI",
+      3
+    ],
+    [
+      "ITACARAMBI",
+      3
+    ],
+    [
+      "ITACARE",
+      3
+    ],
+    [
+      "ITAGUAI",
+      3
+    ],
+    [
+      "ITAMOGI",
+      3
+    ],
+    [
+      "ITAOBIM",
+      3
+    ],
+    [
+      "ITAQUI",
+      3
+    ],
+    [
+      "ITATIRA",
+      3
+    ],
+    [
+      "ITIRAPUA",
+      3
+    ],
+    [
+      "JACIARA",
+      3
+    ],
+    [
+      "JAGUARIAIVA",
+      3
+    ],
+    [
+      "JAGUARUANA",
+      3
+    ],
+    [
+      "JAIBA",
+      3
+    ],
+    [
+      "JANDAIA DO SUL",
+      3
+    ],
+    [
+      "JOAO RAMALHO",
+      3
+    ],
+    [
+      "JOVIANIA",
+      3
+    ],
+    [
+      "JURUAIA",
+      3
+    ],
+    [
+      "JUSSARA",
+      3
+    ],
+    [
+      "LAJEDAO",
+      3
+    ],
+    [
+      "LAMBARI D'OESTE",
+      3
+    ],
+    [
+      "LARANJEIRAS DO SUL",
+      3
+    ],
+    [
+      "LEOPOLIS",
+      3
+    ],
+    [
+      "LOANDA",
+      3
+    ],
+    [
+      "MADRE DE DEUS",
+      3
+    ],
+    [
+      "MANHUMIRIM",
+      3
+    ],
+    [
+      "MARAGOGI",
+      3
+    ],
+    [
+      "MARIALVA",
+      3
+    ],
+    [
+      "MARILANDIA",
+      3
+    ],
+    [
+      "MEDEIROS",
+      3
+    ],
+    [
+      "MIMOSO DO SUL",
+      3
+    ],
+    [
+      "MINACU",
+      3
+    ],
+    [
+      "MIRACATU",
+      3
+    ],
+    [
+      "MIRANDA",
+      3
+    ],
+    [
+      "MOJU",
+      3
+    ],
+    [
+      "MONTENEGRO",
+      3
+    ],
+    [
+      "MOZARLANDIA",
+      3
+    ],
+    [
+      "MUZAMBINHO",
+      3
+    ],
+    [
+      "NANTES",
+      3
+    ],
+    [
+      "NARANDIBA",
+      3
+    ],
+    [
+      "NIOAQUE",
+      3
+    ],
+    [
+      "NOSSA SENHORA DO LIVRAMENTO",
+      3
+    ],
+    [
+      "NOVA CAMPINA",
+      3
+    ],
+    [
+      "NOVA ESPERANCA",
+      3
+    ],
+    [
+      "NOVA GUATAPORANGA",
+      3
+    ],
+    [
+      "NOVA RESENDE",
+      3
+    ],
+    [
+      "NOVA SANTA HELENA",
+      3
+    ],
+    [
+      "NOVA VENEZA",
+      3
+    ],
+    [
+      "ORIXIMINA",
+      3
+    ],
+    [
+      "OURILANDIA DO NORTE",
+      3
+    ],
+    [
+      "PALMEIROPOLIS",
+      3
+    ],
+    [
+      "PARAIBUNA",
+      3
+    ],
+    [
+      "PEDRINHAS",
+      3
+    ],
+    [
+      "PEDRO AFONSO",
+      3
+    ],
+    [
+      "PERDIGAO",
+      3
+    ],
+    [
+      "PINTADAS",
+      3
+    ],
+    [
+      "POJUCA",
+      3
+    ],
+    [
+      "PONTO CHIQUE",
+      3
+    ],
+    [
+      "PORTO ESPERIDIAO",
+      3
+    ],
+    [
+      "POSSE",
+      3
+    ],
+    [
+      "PRESIDENTE DUTRA",
+      3
+    ],
+    [
+      "QUEDAS DO IGUACU",
+      3
+    ],
+    [
+      "QUELUZ",
+      3
+    ],
+    [
+      "REDUTO",
+      3
+    ],
+    [
+      "RIALMA",
+      3
+    ],
+    [
+      "RIBEIRA DO POMBAL",
+      3
+    ],
+    [
+      "RIO GRANDE DA SERRA",
+      3
+    ],
+    [
+      "RIO LARGO",
+      3
+    ],
+    [
+      "RIO NEGRINHO",
+      3
+    ],
+    [
+      "RONDON DO PARA",
+      3
+    ],
+    [
+      "SALESOPOLIS",
+      3
+    ],
+    [
+      "SALTO DO CEU",
+      3
+    ],
+    [
+      "SANTA CRUZ CABRALIA",
+      3
+    ],
+    [
+      "SANTA CRUZ DA ESPERANCA",
+      3
+    ],
+    [
+      "SANTA CRUZ DE MONTE CASTELO",
+      3
+    ],
+    [
+      "SANTA LUZIA",
+      3
+    ],
+    [
+      "SANTA ROSA DO TOCANTINS",
+      3
+    ],
+    [
+      "SANTO ANGELO",
+      3
+    ],
+    [
+      "SANTO ESTEVAO",
+      3
+    ],
+    [
+      "SANTO INACIO",
+      3
+    ],
+    [
+      "SAO CRISTOVAO",
+      3
+    ],
+    [
+      "SAO JOAO DA PONTE",
+      3
+    ],
+    [
+      "SAO JOSE DO CALCADO",
+      3
+    ],
+    [
+      "SAO LOURENCO",
+      3
+    ],
+    [
+      "SAO LUIZ GONZAGA",
+      3
+    ],
+    [
+      "SAO MATEUS",
+      3
+    ],
+    [
+      "SAO MATEUS DO MARANHAO",
+      3
+    ],
+    [
+      "SAO MIGUEL DO ARAGUAIA",
+      3
+    ],
+    [
+      "SAO MIGUEL DO GUAMA",
+      3
+    ],
+    [
+      "SAO MIGUEL DO OESTE",
+      3
+    ],
+    [
+      "SAO SEBASTIAO DO PASSE",
+      3
+    ],
+    [
+      "SAO TOME DAS LETRAS",
+      3
+    ],
+    [
+      "SENADOR GUIOMARD",
+      3
+    ],
+    [
+      "SENHOR DO BONFIM",
+      3
+    ],
+    [
+      "SERRA DO RAMALHO",
+      3
+    ],
+    [
+      "SERRA DO SALITRE",
+      3
+    ],
+    [
+      "SIMONESIA",
+      3
+    ],
+    [
+      "SOMBRIO",
+      3
+    ],
+    [
+      "SONORA",
+      3
+    ],
+    [
+      "TAGUATINGA",
+      3
+    ],
+    [
+      "TAQUARANA",
+      3
+    ],
+    [
+      "TARABAI",
+      3
+    ],
+    [
+      "TAUA",
+      3
+    ],
+    [
+      "TEOFILO OTONI",
+      3
+    ],
+    [
+      "TERENOS",
+      3
+    ],
+    [
+      "TIJUCAS",
+      3
+    ],
+    [
+      "TIMON",
+      3
+    ],
+    [
+      "TURVELANDIA",
+      3
+    ],
+    [
+      "UMBAUBA",
+      3
+    ],
+    [
+      "UNIAO",
+      3
+    ],
+    [
+      "UNIAO DA VITORIA",
+      3
+    ],
+    [
+      "UNIAO DOS PALMARES",
+      3
+    ],
+    [
+      "VAZANTE",
+      3
+    ],
+    [
+      "VIDEIRA",
+      3
+    ],
+    [
+      "XAXIM",
+      3
+    ],
+    [
+      "XINGUARA",
+      3
+    ],
+    [
+      "ABADIANIA",
+      2
+    ],
+    [
+      "ABRE CAMPO",
+      2
+    ],
+    [
+      "ABREU E LIMA",
+      2
+    ],
+    [
+      "ACARA",
+      2
+    ],
+    [
+      "ACRELANDIA",
+      2
+    ],
+    [
+      "AGUAS DE SANTA BARBARA",
+      2
+    ],
+    [
+      "AIUABA",
+      2
+    ],
+    [
+      "ALCOBACA",
+      2
+    ],
+    [
+      "ALEGRE",
+      2
+    ],
+    [
+      "ALEXANIA",
+      2
+    ],
+    [
+      "ALFREDO MARCONDES",
+      2
+    ],
+    [
+      "ALHANDRA",
+      2
+    ],
+    [
+      "ALTA FLORESTA D'OESTE",
+      2
+    ],
+    [
+      "ALTEROSA",
+      2
+    ],
+    [
+      "ALTOS",
+      2
+    ],
+    [
+      "ANCHIETA",
+      2
+    ],
+    [
+      "ANHEMBI",
+      2
+    ],
+    [
+      "ANHUMAS",
+      2
+    ],
+    [
+      "ANTONIO CARLOS",
+      2
+    ],
+    [
+      "APIAI",
+      2
+    ],
+    [
+      "AREADO",
+      2
+    ],
+    [
+      "AREIOPOLIS",
+      2
+    ],
+    [
+      "ARIPUANA",
+      2
+    ],
+    [
+      "ARRAIAL DO CABO",
+      2
+    ],
+    [
+      "ARUANA",
+      2
+    ],
+    [
+      "ASSIS CHATEAUBRIAND",
+      2
+    ],
+    [
+      "ATALAIA",
+      2
+    ],
+    [
+      "AURILANDIA",
+      2
+    ],
+    [
+      "BALIZA",
+      2
+    ],
+    [
+      "BARRA DO PIRAI",
+      2
+    ],
+    [
+      "BARREIROS",
+      2
+    ],
+    [
+      "BATAYPORA",
+      2
+    ],
+    [
+      "BELA VISTA DE GOIAS",
+      2
+    ],
+    [
+      "BELA VISTA DO PARAISO",
+      2
+    ],
+    [
+      "BELO JARDIM",
+      2
+    ],
+    [
+      "BOA ESPERANCA DO NORTE",
+      2
+    ],
+    [
+      "BOCA DO ACRE",
+      2
+    ],
+    [
+      "BODOQUENA",
+      2
+    ],
+    [
+      "BOM JARDIM",
+      2
+    ],
+    [
+      "BOM JARDIM DE GOIAS",
+      2
+    ],
+    [
+      "BOM JESUS DAS SELVAS",
+      2
+    ],
+    [
+      "BOM REPOUSO",
+      2
+    ],
+    [
+      "BONFINOPOLIS",
+      2
+    ],
+    [
+      "BORA",
+      2
+    ],
+    [
+      "BORDA DA MATA",
+      2
+    ],
+    [
+      "BOTUPORA",
+      2
+    ],
+    [
+      "BRASILANDIA DE MINAS",
+      2
+    ],
+    [
+      "BRASILEIA",
+      2
+    ],
+    [
+      "BREJINHO DE NAZARE",
+      2
+    ],
+    [
+      "BREJO GRANDE DO ARAGUAIA",
+      2
+    ],
+    [
+      "BURITICUPU",
+      2
+    ],
+    [
+      "BURITIS",
+      2
+    ],
+    [
+      "CAIRU",
+      2
+    ],
+    [
+      "CAJATI",
+      2
+    ],
+    [
+      "CALDAS",
+      2
+    ],
+    [
+      "CAMPO BOM",
+      2
+    ],
+    [
+      "CAMPO DO MEIO",
+      2
+    ],
+    [
+      "CAMPOS ALTOS",
+      2
+    ],
+    [
+      "CAMPOS SALES",
+      2
+    ],
+    [
+      "CANELINHA",
+      2
+    ],
+    [
+      "CANITAR",
+      2
+    ],
+    [
+      "CANOINHAS",
+      2
+    ],
+    [
+      "CANTAGALO",
+      2
+    ],
+    [
+      "CAPELINHA",
+      2
+    ],
+    [
+      "CAPIM GROSSO",
+      2
+    ],
+    [
+      "CARAMBEI",
+      2
+    ],
+    [
+      "CARATINGA",
+      2
+    ],
+    [
+      "CARAUBAS DO PIAUI",
+      2
+    ],
+    [
+      "CARAZINHO",
+      2
+    ],
+    [
+      "CARINHANHA",
+      2
+    ],
+    [
+      "CARLINDA",
+      2
+    ],
+    [
+      "CARMESIA",
+      2
+    ],
+    [
+      "CARMO DA MATA",
+      2
+    ],
+    [
+      "CARNAIBA",
+      2
+    ],
+    [
+      "CARPINA",
+      2
+    ],
+    [
+      "CASA NOVA",
+      2
+    ],
+    [
+      "CASTELANDIA",
+      2
+    ],
+    [
+      "CATANDUVAS",
+      2
+    ],
+    [
+      "CAVALCANTE",
+      2
+    ],
+    [
+      "CAXAMBU",
+      2
+    ],
+    [
+      "CERES",
+      2
+    ],
+    [
+      "CEZARINA",
+      2
+    ],
+    [
+      "CHAPADA DE AREIA",
+      2
+    ],
+    [
+      "CIDADE OCIDENTAL",
+      2
+    ],
+    [
+      "COMODORO",
+      2
+    ],
+    [
+      "CONGONHAL",
+      2
+    ],
+    [
+      "CORONEL FABRICIANO",
+      2
+    ],
+    [
+      "CRISTAIS",
+      2
+    ],
+    [
+      "CRIXAS",
+      2
+    ],
+    [
+      "CRUZ ALTA",
+      2
+    ],
+    [
+      "CUNHA PORA",
+      2
+    ],
+    [
+      "CURITIBANOS",
+      2
+    ],
+    [
+      "CURRAL VELHO",
+      2
+    ],
+    [
+      "DARCINOPOLIS",
+      2
+    ],
+    [
+      "DIAMANTINA",
+      2
+    ],
+    [
+      "DOIS VIZINHOS",
+      2
+    ],
+    [
+      "DOM AQUINO",
+      2
+    ],
+    [
+      "DOM FELICIANO",
+      2
+    ],
+    [
+      "DOMINGOS MARTINS",
+      2
+    ],
+    [
+      "ECOPORANGA",
+      2
+    ],
+    [
+      "ELESBAO VELOSO",
+      2
+    ],
+    [
+      "ENCANTADO",
+      2
+    ],
+    [
+      "ESPIGAO D'OESTE",
+      2
+    ],
+    [
+      "ESTRELA DO SUL",
+      2
+    ],
+    [
+      "EXU",
+      2
+    ],
+    [
+      "FIGUEIRA",
+      2
+    ],
+    [
+      "FLEXEIRAS",
+      2
+    ],
+    [
+      "FLORESTA DO ARAGUAIA",
+      2
+    ],
+    [
+      "FLORINEA",
+      2
+    ],
+    [
+      "FORMOSO",
+      2
+    ],
+    [
+      "GLORIA",
+      2
+    ],
+    [
+      "GLORIA D'OESTE",
+      2
+    ],
+    [
+      "GOIANIRA",
+      2
+    ],
+    [
+      "GOIOERE",
+      2
+    ],
+    [
+      "GUAIRACA",
+      2
+    ],
+    [
+      "IBAITI",
+      2
+    ],
+    [
+      "IBATIBA",
+      2
+    ],
+    [
+      "IBIA",
+      2
+    ],
+    [
+      "IBIAPINA",
+      2
+    ],
+    [
+      "IBICOARA",
+      2
+    ],
+    [
+      "IBIRACU",
+      2
+    ],
+    [
+      "ICARA",
+      2
+    ],
+    [
+      "IEPE",
+      2
+    ],
+    [
+      "IGAPORA",
+      2
+    ],
+    [
+      "IGARAPE",
+      2
+    ],
+    [
+      "IGARAPE-MIRI",
+      2
+    ],
+    [
+      "IGARATA",
+      2
+    ],
+    [
+      "IGRAPIUNA",
+      2
+    ],
+    [
+      "IGUATEMI",
+      2
+    ],
+    [
+      "ILHOTA",
+      2
+    ],
+    [
+      "IMBE",
+      2
+    ],
+    [
+      "IMBITUVA",
+      2
+    ],
+    [
+      "INDIAVAI",
+      2
+    ],
+    [
+      "IPORANGA",
+      2
+    ],
+    [
+      "ISRAELANDIA",
+      2
+    ],
+    [
+      "ITABIRITO",
+      2
+    ],
+    [
+      "ITAIPULANDIA",
+      2
+    ],
+    [
+      "ITAMARANDIBA",
+      2
+    ],
+    [
+      "ITANHANGA",
+      2
+    ],
+    [
+      "ITANHOMI",
+      2
+    ],
+    [
+      "ITAPETIM",
+      2
+    ],
+    [
+      "ITAPETINGA",
+      2
+    ],
+    [
+      "ITAPURANGA",
+      2
+    ],
+    [
+      "ITAQUIRAI",
+      2
+    ],
+    [
+      "ITATIAIA",
+      2
+    ],
+    [
+      "ITIUBA",
+      2
+    ],
+    [
+      "JAGUAPITA",
+      2
+    ],
+    [
+      "JAGUARUNA",
+      2
+    ],
+    [
+      "JANUARIA",
+      2
+    ],
+    [
+      "JAPARATINGA",
+      2
+    ],
+    [
+      "JAPURA",
+      2
+    ],
+    [
+      "JAU DO TOCANTINS",
+      2
+    ],
+    [
+      "JESUITAS",
+      2
+    ],
+    [
+      "JIJOCA DE JERICOACOARA",
+      2
+    ],
+    [
+      "JOAO DOURADO",
+      2
+    ],
+    [
+      "JOAQUIM PIRES",
+      2
+    ],
+    [
+      "JURANDA",
+      2
+    ],
+    [
+      "JURUENA",
+      2
+    ],
+    [
+      "JUSCIMEIRA",
+      2
+    ],
+    [
+      "LADARIO",
+      2
+    ],
+    [
+      "LAGOA FORMOSA",
+      2
+    ],
+    [
+      "LAGOA NOVA",
+      2
+    ],
+    [
+      "LAJEADO",
+      2
+    ],
+    [
+      "LARANJAL DO JARI",
+      2
+    ],
+    [
+      "LEME DO PRADO",
+      2
+    ],
+    [
+      "LEOPOLDINA",
+      2
+    ],
+    [
+      "LICINIO DE ALMEIDA",
+      2
+    ],
+    [
+      "LOBATO",
+      2
+    ],
+    [
+      "LUCIARA",
+      2
+    ],
+    [
+      "LUIZ ALVES",
+      2
+    ],
+    [
+      "MAIQUINIQUE",
+      2
+    ],
+    [
+      "MANDURI",
+      2
+    ],
+    [
+      "MANGA",
+      2
+    ],
+    [
+      "MANICORE",
+      2
+    ],
+    [
+      "MANTENA",
+      2
+    ],
+    [
+      "MARACAI",
+      2
+    ],
+    [
+      "MARIANA",
+      2
+    ],
+    [
+      "MARTINHO CAMPOS",
+      2
+    ],
+    [
+      "MEDICILANDIA",
+      2
+    ],
+    [
+      "MESQUITA",
+      2
+    ],
+    [
+      "MIGUEL CALMON",
+      2
+    ],
+    [
+      "MIGUEL PEREIRA",
+      2
+    ],
+    [
+      "MINAS NOVAS",
+      2
+    ],
+    [
+      "MOMBACA",
+      2
+    ],
+    [
+      "MONTANHA",
+      2
+    ],
+    [
+      "MONTIVIDIU",
+      2
+    ],
+    [
+      "MORUNGABA",
+      2
+    ],
+    [
+      "NEROPOLIS",
+      2
+    ],
+    [
+      "NIQUELANDIA",
+      2
+    ],
+    [
+      "NORTELANDIA",
+      2
+    ],
+    [
+      "NOSSA SENHORA DAS GRACAS",
+      2
+    ],
+    [
+      "NOVA ALVORADA DO SUL",
+      2
+    ],
+    [
+      "NOVA BRASILANDIA",
+      2
+    ],
+    [
+      "NOVA ERA",
+      2
+    ],
+    [
+      "NOVA LONDRINA",
+      2
+    ],
+    [
+      "NOVA PETROPOLIS",
+      2
+    ],
+    [
+      "NOVA ROMA",
+      2
+    ],
+    [
+      "NOVA VICOSA",
+      2
+    ],
+    [
+      "NOVO ORIENTE",
+      2
+    ],
+    [
+      "NOVO PLANALTO",
+      2
+    ],
+    [
+      "NOVO SANTO ANTONIO",
+      2
+    ],
+    [
+      "OIAPOQUE",
+      2
+    ],
+    [
+      "OSORIO",
+      2
+    ],
+    [
+      "OURO",
+      2
+    ],
+    [
+      "PACAJA",
+      2
+    ],
+    [
+      "PACAJUS",
+      2
+    ],
+    [
+      "PADRE MARCOS",
+      2
+    ],
+    [
+      "PARAIBANO",
+      2
+    ],
+    [
+      "PARAUNA",
+      2
+    ],
+    [
+      "PARINTINS",
+      2
+    ],
+    [
+      "PARNAIBA",
+      2
+    ],
+    [
+      "PASSA QUATRO",
+      2
+    ],
+    [
+      "PASTOS BONS",
+      2
+    ],
+    [
+      "PEABIRU",
+      2
+    ],
+    [
+      "PEDRA BRANCA",
+      2
+    ],
+    [
+      "PEDRO CANARIO",
+      2
+    ],
+    [
+      "PEDRO DE TOLEDO",
+      2
+    ],
+    [
+      "PEDRO LEOPOLDO",
+      2
+    ],
+    [
+      "PESQUEIRA",
+      2
+    ],
+    [
+      "PICOS",
+      2
+    ],
+    [
+      "PINDAI",
+      2
+    ],
+    [
+      "PINDORAMA DO TOCANTINS",
+      2
+    ],
+    [
+      "PINHEIRO",
+      2
+    ],
+    [
+      "PIRACANJUBA",
+      2
+    ],
+    [
+      "PIRAPORA",
+      2
+    ],
+    [
+      "PIRES FERREIRA",
+      2
+    ],
+    [
+      "PLANALTINA",
+      2
+    ],
+    [
+      "POCRANE",
+      2
+    ],
+    [
+      "PORANGABA",
+      2
+    ],
+    [
+      "PORECATU",
+      2
+    ],
+    [
+      "PORTEIRAO",
+      2
+    ],
+    [
+      "PORTO CALVO",
+      2
+    ],
+    [
+      "POXOREU",
+      2
+    ],
+    [
+      "PRESIDENTE KENNEDY",
+      2
+    ],
+    [
+      "PROPRIA",
+      2
+    ],
+    [
+      "QUEIMADAS",
+      2
+    ],
+    [
+      "QUEIMADOS",
+      2
+    ],
+    [
+      "QUILOMBO",
+      2
+    ],
+    [
+      "QUIXABA",
+      2
+    ],
+    [
+      "REMANSO",
+      2
+    ],
+    [
+      "RESERVA",
+      2
+    ],
+    [
+      "RIBEIRAO DO PINHAL",
+      2
+    ],
+    [
+      "RIBEIRAO DOS INDIOS",
+      2
+    ],
+    [
+      "RIBEIRAOZINHO",
+      2
+    ],
+    [
+      "RIO PARANAIBA",
+      2
+    ],
+    [
+      "RIO PRETO DA EVA",
+      2
+    ],
+    [
+      "RIO QUENTE",
+      2
+    ],
+    [
+      "RIVERSUL",
+      2
+    ],
+    [
+      "RONCADOR",
+      2
+    ],
+    [
+      "ROSARIO OESTE",
+      2
+    ],
+    [
+      "RUBIATABA",
+      2
+    ],
+    [
+      "SALTO DO LONTRA",
+      2
+    ],
+    [
+      "SANTA BRANCA",
+      2
+    ],
+    [
+      "SANTA CECILIA",
+      2
+    ],
+    [
+      "SANTA CRUZ DA BAIXA VERDE",
+      2
+    ],
+    [
+      "SANTA CRUZ DE GOIAS",
+      2
+    ],
+    [
+      "SANTA CRUZ DO CAPIBARIBE",
+      2
+    ],
+    [
+      "SANTA ISABEL",
+      2
+    ],
+    [
+      "SANTA LUZIA DO PARUA",
+      2
+    ],
+    [
+      "SANTA MARIA DA SERRA",
+      2
+    ],
+    [
+      "SANTA QUITERIA",
+      2
+    ],
+    [
+      "SANTA ROSA DA SERRA",
+      2
+    ],
+    [
+      "SANTA TEREZINHA",
+      2
+    ],
+    [
+      "SANTA TEREZINHA DE GOIAS",
+      2
+    ],
+    [
+      "SANTANA DO ARAGUAIA",
+      2
+    ],
+    [
+      "SANTANA DO IPANEMA",
+      2
+    ],
+    [
+      "SANTANA DO SAO FRANCISCO",
+      2
+    ],
+    [
+      "SANTO AMARO",
+      2
+    ],
+    [
+      "SANTO ANTONIO DA PATRULHA",
+      2
+    ],
+    [
+      "SANTO ANTONIO DO JARDIM",
+      2
+    ],
+    [
+      "SANTO ANTONIO DO SUDOESTE",
+      2
+    ],
+    [
+      "SANTO EXPEDITO",
+      2
+    ],
+    [
+      "SAO BENTO DO SAPUCAI",
+      2
+    ],
+    [
+      "SAO BRAS",
+      2
+    ],
+    [
+      "SAO DOMINGOS",
+      2
+    ],
+    [
+      "SAO FRANCISCO DO GUAPORE",
+      2
+    ],
+    [
+      "SAO GABRIEL DA CACHOEIRA",
+      2
+    ],
+    [
+      "SAO GONCALO DO ABAETE",
+      2
+    ],
+    [
+      "SAO JOAO DA BARRA",
+      2
+    ],
+    [
+      "SAO JOAO DO IVAI",
+      2
+    ],
+    [
+      "SAO JOAO DOS PATOS",
+      2
+    ],
+    [
+      "SAO JOSE DE PRINCESA",
+      2
+    ],
+    [
+      "SAO JOSE DE RIBAMAR",
+      2
+    ],
+    [
+      "SAO LOURENCO DA SERRA",
+      2
+    ],
+    [
+      "SAO LUIS DO QUITUNDE",
+      2
+    ],
+    [
+      "SAO LUIZ",
+      2
+    ],
+    [
+      "SAO LUIZ DO NORTE",
+      2
+    ],
+    [
+      "SAO MATEUS DO SUL",
+      2
+    ],
+    [
+      "SAO PEDRO DA AGUA BRANCA",
+      2
+    ],
+    [
+      "SAO PEDRO DA ALDEIA",
+      2
+    ],
+    [
+      "SAO TOMAS DE AQUINO",
+      2
+    ],
+    [
+      "SAPE",
+      2
+    ],
+    [
+      "SAQUAREMA",
+      2
+    ],
+    [
+      "SCHROEDER",
+      2
+    ],
+    [
+      "SENADOR POMPEU",
+      2
+    ],
+    [
+      "SENTO SE",
+      2
+    ],
+    [
+      "SEROPEDICA",
+      2
+    ],
+    [
+      "SETE QUEDAS",
+      2
+    ],
+    [
+      "SILVANOPOLIS",
+      2
+    ],
+    [
+      "SILVEIRAS",
+      2
+    ],
+    [
+      "SIRIRI",
+      2
+    ],
+    [
+      "SUCUPIRA",
+      2
+    ],
+    [
+      "TABAPORA",
+      2
+    ],
+    [
+      "TACIBA",
+      2
+    ],
+    [
+      "TAILANDIA",
+      2
+    ],
+    [
+      "TAMANDARE",
+      2
+    ],
+    [
+      "TAPEROA",
+      2
+    ],
+    [
+      "TAPIRA",
+      2
+    ],
+    [
+      "TAQUARIVAI",
+      2
+    ],
+    [
+      "TERRA NOVA DO NORTE",
+      2
+    ],
+    [
+      "TIRADENTES",
+      2
+    ],
+    [
+      "TIRADENTES DO SUL",
+      2
+    ],
+    [
+      "TOBIAS BARRETO",
+      2
+    ],
+    [
+      "TORIXOREU",
+      2
+    ],
+    [
+      "TORRES",
+      2
+    ],
+    [
+      "TRAIRAO",
+      2
+    ],
+    [
+      "TRAMANDAI",
+      2
+    ],
+    [
+      "TRES MARIAS",
+      2
+    ],
+    [
+      "TRES PASSOS",
+      2
+    ],
+    [
+      "TRIUNFO",
+      2
+    ],
+    [
+      "TUPIRAMA",
+      2
+    ],
+    [
+      "TURIACU",
+      2
+    ],
+    [
+      "TURILANDIA",
+      2
+    ],
+    [
+      "VACARIA",
+      2
+    ],
+    [
+      "VASSOURAS",
+      2
+    ],
+    [
+      "VIANOPOLIS",
+      2
+    ],
+    [
+      "VICENTINOPOLIS",
+      2
+    ],
+    [
+      "VILA RICA",
+      2
+    ],
+    [
+      "VISEU",
+      2
+    ],
+    [
+      "WENCESLAU GUIMARAES",
+      2
+    ],
+    [
+      "XANGRI-LA",
+      2
+    ],
+    [
+      "XAPURI",
+      2
+    ],
+    [
+      "ABADIA DE GOIAS",
+      1
+    ],
+    [
+      "ACEGUA",
+      1
+    ],
+    [
+      "ACORIZAL",
+      1
+    ],
+    [
+      "AFONSO CUNHA",
+      1
+    ],
+    [
+      "AGUA AZUL DO NORTE",
+      1
+    ],
+    [
+      "AGUA LIMPA",
+      1
+    ],
+    [
+      "AGUANIL",
+      1
+    ],
+    [
+      "AGUAS FORMOSAS",
+      1
+    ],
+    [
+      "ALAGOA NOVA",
+      1
+    ],
+    [
+      "ALAGOINHA",
+      1
+    ],
+    [
+      "ALFREDO CHAVES",
+      1
+    ],
+    [
+      "ALMAS",
+      1
+    ],
+    [
+      "ALMEIRIM",
+      1
+    ],
+    [
+      "ALMENARA",
+      1
+    ],
+    [
+      "ALMIRANTE TAMANDARE",
+      1
+    ],
+    [
+      "ALTO ALEGRE DOS PARECIS",
+      1
+    ],
+    [
+      "ALTO BOA VISTA",
+      1
+    ],
+    [
+      "ALTO HORIZONTE",
+      1
+    ],
+    [
+      "ALTO PARANA",
+      1
+    ],
+    [
+      "ALTO PIQUIRI",
+      1
+    ],
+    [
+      "ALTO SANTO",
+      1
+    ],
+    [
+      "ALUMINIO",
+      1
+    ],
+    [
+      "ALVINLANDIA",
+      1
+    ],
+    [
+      "ALVORADA D'OESTE",
+      1
+    ],
+    [
+      "AMAPA",
+      1
+    ],
+    [
+      "AMARGOSA",
+      1
+    ],
+    [
+      "AMATURA",
+      1
+    ],
+    [
+      "AMELIA RODRIGUES",
+      1
+    ],
+    [
+      "AMERICA DOURADA",
+      1
+    ],
+    [
+      "AMERICANO DO BRASIL",
+      1
+    ],
+    [
+      "ANADIA",
+      1
+    ],
+    [
+      "ANAPURUS",
+      1
+    ],
+    [
+      "ANASTACIO",
+      1
+    ],
+    [
+      "ANDARAI",
+      1
+    ],
+    [
+      "ANDRELANDIA",
+      1
+    ],
+    [
+      "ANGELICA",
+      1
+    ],
+    [
+      "ANTAS",
+      1
+    ],
+    [
+      "APARECIDA DO RIO DOCE",
+      1
+    ],
+    [
+      "AQUIDABA",
+      1
+    ],
+    [
+      "ARACAI",
+      1
+    ],
+    [
+      "ARACATI",
+      1
+    ],
+    [
+      "ARACI",
+      1
+    ],
+    [
+      "ARACOIABA",
+      1
+    ],
+    [
+      "ARAGUANA",
+      1
+    ],
+    [
+      "ARAGUATINS",
+      1
+    ],
+    [
+      "ARAPORA",
+      1
+    ],
+    [
+      "ARARIPINA",
+      1
+    ],
+    [
+      "ARARUNA",
+      1
+    ],
+    [
+      "ARAUJOS",
+      1
+    ],
+    [
+      "AREIA BRANCA",
+      1
+    ],
+    [
+      "ARROIO DO MEIO",
+      1
+    ],
+    [
+      "AUGUSTINOPOLIS",
+      1
+    ],
+    [
+      "AURORA",
+      1
+    ],
+    [
+      "AXIXA DO TOCANTINS",
+      1
+    ],
+    [
+      "BAIAO",
+      1
+    ],
+    [
+      "BAIXO GUANDU",
+      1
+    ],
+    [
+      "BALDIM",
+      1
+    ],
+    [
+      "BALNEARIO GAIVOTA",
+      1
+    ],
+    [
+      "BALNEARIO PINHAL",
+      1
+    ],
+    [
+      "BANDEIRA DO SUL",
+      1
+    ],
+    [
+      "BANDEIRANTE",
+      1
+    ],
+    [
+      "BARAO DE COCAIS",
+      1
+    ],
+    [
+      "BARBACENA",
+      1
+    ],
+    [
+      "BARBALHA",
+      1
+    ],
+    [
+      "BARRA DE SAO FRANCISCO",
+      1
+    ],
+    [
+      "BARRA DO CHOCA",
+      1
+    ],
+    [
+      "BARRA DO CORDA",
+      1
+    ],
+    [
+      "BARRA DO JACARE",
+      1
+    ],
+    [
+      "BARRA DO OURO",
+      1
+    ],
+    [
+      "BARRA DO TURVO",
+      1
+    ],
+    [
+      "BARRAS",
+      1
+    ],
+    [
+      "BARREIRINHA",
+      1
+    ],
+    [
+      "BELA VISTA",
+      1
+    ],
+    [
+      "BELA VISTA DE MINAS",
+      1
+    ],
+    [
+      "BENEVIDES",
+      1
+    ],
+    [
+      "BEZERROS",
+      1
+    ],
+    [
+      "BITURUNA",
+      1
+    ],
+    [
+      "BOCAIUVA",
+      1
+    ],
+    [
+      "BOM JESUS DA PENHA",
+      1
+    ],
+    [
+      "BOM JESUS DO ARAGUAIA",
+      1
+    ],
+    [
+      "BOM JESUS DO ITABAPOANA",
+      1
+    ],
+    [
+      "BOM PRINCIPIO",
+      1
+    ],
+    [
+      "BOM SUCESSO",
+      1
+    ],
+    [
+      "BOM SUCESSO DE ITARARE",
+      1
+    ],
+    [
+      "BONITO DE SANTA FE",
+      1
+    ],
+    [
+      "BOQUIRA",
+      1
+    ],
+    [
+      "BRACO DO NORTE",
+      1
+    ],
+    [
+      "BRAGANEY",
+      1
+    ],
+    [
+      "BRASIL NOVO",
+      1
+    ],
+    [
+      "BRASILANDIA DO SUL",
+      1
+    ],
+    [
+      "BREJO SANTO",
+      1
+    ],
+    [
+      "BREJOES",
+      1
+    ],
+    [
+      "BREU BRANCO",
+      1
+    ],
+    [
+      "BREVES",
+      1
+    ],
+    [
+      "BUENO BRANDAO",
+      1
+    ],
+    [
+      "BUENOPOLIS",
+      1
+    ],
+    [
+      "BUJARI",
+      1
+    ],
+    [
+      "BURITI DO TOCANTINS",
+      1
+    ],
+    [
+      "CABEDELO",
+      1
+    ],
+    [
+      "CACADOR",
+      1
+    ],
+    [
+      "CACAPAVA DO SUL",
+      1
+    ],
+    [
+      "CACHOEIRA GRANDE",
+      1
+    ],
+    [
+      "CAETANOPOLIS",
+      1
+    ],
+    [
+      "CAFARNAUM",
+      1
+    ],
+    [
+      "CAJAPIO",
+      1
+    ],
+    [
+      "CAJAZEIRAS",
+      1
+    ],
+    [
+      "CAJAZEIRINHAS",
+      1
+    ],
+    [
+      "CAJUEIRO DA PRAIA",
+      1
+    ],
+    [
+      "CALCOENE",
+      1
+    ],
+    [
+      "CALIFORNIA",
+      1
+    ],
+    [
+      "CAMAMU",
+      1
+    ],
+    [
+      "CAMARAGIBE",
+      1
+    ],
+    [
+      "CAMBARA",
+      1
+    ],
+    [
+      "CAMBUCI",
+      1
+    ],
+    [
+      "CAMETA",
+      1
+    ],
+    [
+      "CAMPANHA",
+      1
+    ],
+    [
+      "CAMPESTRE DO MARANHAO",
+      1
+    ],
+    [
+      "CAMPINA DA LAGOA",
+      1
+    ],
+    [
+      "CAMPINAPOLIS",
+      1
+    ],
+    [
+      "CAMPO DO BRITO",
+      1
+    ],
+    [
+      "CAMPO FORMOSO",
+      1
+    ],
+    [
+      "CAMPOS BELOS",
+      1
+    ],
+    [
+      "CAMPOS LINDOS",
+      1
+    ],
+    [
+      "CANAS",
+      1
+    ],
+    [
+      "CANAVIEIRAS",
+      1
+    ],
+    [
+      "CANDEIAS DO JAMARI",
+      1
+    ],
+    [
+      "CANDIBA",
+      1
+    ],
+    [
+      "CANDOI",
+      1
+    ],
+    [
+      "CANGUCU",
+      1
+    ],
+    [
+      "CANUDOS",
+      1
+    ],
+    [
+      "CAPELA DE SANTANA",
+      1
+    ],
+    [
+      "CAPELA DO ALTO ALEGRE",
+      1
+    ],
+    [
+      "CARAUARI",
+      1
+    ],
+    [
+      "CARAVELAS",
+      1
+    ],
+    [
+      "CARBONITA",
+      1
+    ],
+    [
+      "CARIDADE DO PIAUI",
+      1
+    ],
+    [
+      "CARLOPOLIS",
+      1
+    ],
+    [
+      "CARLOS BARBOSA",
+      1
+    ],
+    [
+      "CARLOS CHAGAS",
+      1
+    ],
+    [
+      "CARMO DO RIO CLARO",
+      1
+    ],
+    [
+      "CARMOPOLIS DE MINAS",
+      1
+    ],
+    [
+      "CARNAUBEIRA DA PENHA",
+      1
+    ],
+    [
+      "CARNEIROS",
+      1
+    ],
+    [
+      "CAROEBE",
+      1
+    ],
+    [
+      "CARVALHOPOLIS",
+      1
+    ],
+    [
+      "CASIMIRO DE ABREU",
+      1
+    ],
+    [
+      "CASSIA DOS COQUEIROS",
+      1
+    ],
+    [
+      "CASTANHEIRA",
+      1
+    ],
+    [
+      "CASTRO ALVES",
+      1
+    ],
+    [
+      "CATAGUASES",
+      1
+    ],
+    [
+      "CATINGUEIRA",
+      1
+    ],
+    [
+      "CATURAI",
+      1
+    ],
+    [
+      "CAXIAS",
+      1
+    ],
+    [
+      "CENTENARIO",
+      1
+    ],
+    [
+      "CENTENARIO DO SUL",
+      1
+    ],
+    [
+      "CENTRAL",
+      1
+    ],
+    [
+      "CENTRALINA",
+      1
+    ],
+    [
+      "CENTRO NOVO DO MARANHAO",
+      1
+    ],
+    [
+      "CERRITO",
+      1
+    ],
+    [
+      "CERRO AZUL",
+      1
+    ],
+    [
+      "CEU AZUL",
+      1
+    ],
+    [
+      "CHA DE ALEGRIA",
+      1
+    ],
+    [
+      "CHAPADA GAUCHA",
+      1
+    ],
+    [
+      "CHARQUEADAS",
+      1
+    ],
+    [
+      "CHAVANTES",
+      1
+    ],
+    [
+      "CHORROCHO",
+      1
+    ],
+    [
+      "CIDADE GAUCHA",
+      1
+    ],
+    [
+      "CIDREIRA",
+      1
+    ],
+    [
+      "CLARO DOS POCOES",
+      1
+    ],
+    [
+      "CLAUDIO",
+      1
+    ],
+    [
+      "COARI",
+      1
+    ],
+    [
+      "COCAL",
+      1
+    ],
+    [
+      "COCALINHO",
+      1
+    ],
+    [
+      "CODAJAS",
+      1
+    ],
+    [
+      "COELHO NETO",
+      1
+    ],
+    [
+      "COIMBRA",
+      1
+    ],
+    [
+      "COLMEIA",
+      1
+    ],
+    [
+      "COLONIA DO PIAUI",
+      1
+    ],
+    [
+      "COLONIA LEOPOLDINA",
+      1
+    ],
+    [
+      "CONCEICAO",
+      1
+    ],
+    [
+      "CONCEICAO DA APARECIDA",
+      1
+    ],
+    [
+      "CONCEICAO DO PARA",
+      1
+    ],
+    [
+      "CONCEICAO DOS OUROS",
+      1
+    ],
+    [
+      "CONCORDIA DO PARA",
+      1
+    ],
+    [
+      "CONDADO",
+      1
+    ],
+    [
+      "CONFINS",
+      1
+    ],
+    [
+      "CONTENDA",
+      1
+    ],
+    [
+      "COQUEIRAL",
+      1
+    ],
+    [
+      "CORBELIA",
+      1
+    ],
+    [
+      "CORDEIROS",
+      1
+    ],
+    [
+      "COREMAS",
+      1
+    ],
+    [
+      "CORINTO",
+      1
+    ],
+    [
+      "CORONEL FREITAS",
+      1
+    ],
+    [
+      "CORONEL MACEDO",
+      1
+    ],
+    [
+      "CORONEL MURTA",
+      1
+    ],
+    [
+      "CORREGO DO BOM JESUS",
+      1
+    ],
+    [
+      "CORREGO FUNDO",
+      1
+    ],
+    [
+      "CORUMBAIBA",
+      1
+    ],
+    [
+      "CORUMBIARA",
+      1
+    ],
+    [
+      "COSTA MARQUES",
+      1
+    ],
+    [
+      "COTRIGUACU",
+      1
+    ],
+    [
+      "COXIXOLA",
+      1
+    ],
+    [
+      "CRISOLITA",
+      1
+    ],
+    [
+      "CRISTALIA",
+      1
+    ],
+    [
+      "CRISTINA",
+      1
+    ],
+    [
+      "CRUZ",
+      1
+    ],
+    [
+      "CRUZ DAS ALMAS",
+      1
+    ],
+    [
+      "CRUZEIRO DA FORTALEZA",
+      1
+    ],
+    [
+      "CRUZEIRO DO OESTE",
+      1
+    ],
+    [
+      "CUMARU DO NORTE",
+      1
+    ],
+    [
+      "CURIONOPOLIS",
+      1
+    ],
+    [
+      "CURRAIS NOVOS",
+      1
+    ],
+    [
+      "CURRAL DE DENTRO",
+      1
+    ],
+    [
+      "CURUCA",
+      1
+    ],
+    [
+      "DELFIM MOREIRA",
+      1
+    ],
+    [
+      "DESCOBERTO",
+      1
+    ],
+    [
+      "DIONISIO CERQUEIRA",
+      1
+    ],
+    [
+      "DIVINO",
+      1
+    ],
+    [
+      "DOM BOSCO",
+      1
+    ],
+    [
+      "DUERE",
+      1
+    ],
+    [
+      "ELISEU MARTINS",
+      1
+    ],
+    [
+      "ENEAS MARQUES",
+      1
+    ],
+    [
+      "ENGENHEIRO BELTRAO",
+      1
+    ],
+    [
+      "ENGENHEIRO NAVARRO",
+      1
+    ],
+    [
+      "ENGENHEIRO PAULO DE FRONTIN",
+      1
+    ],
+    [
+      "ENTRE RIOS",
+      1
+    ],
+    [
+      "ERVALIA",
+      1
+    ],
+    [
+      "ESMERALDAS",
+      1
+    ],
+    [
+      "ESTANCIA VELHA",
+      1
+    ],
+    [
+      "EXTERIOR",
+      1
+    ],
+    [
+      "EXTREMOZ",
+      1
+    ],
+    [
+      "FAINA",
+      1
+    ],
+    [
+      "FARROUPILHA",
+      1
+    ],
+    [
+      "FAXINAL",
+      1
+    ],
+    [
+      "FELIZ NATAL",
+      1
+    ],
+    [
+      "FIGUEIROPOLIS",
+      1
+    ],
+    [
+      "FLORES DA CUNHA",
+      1
+    ],
+    [
+      "FLORESTA",
+      1
+    ],
+    [
+      "FLORIANO",
+      1
+    ],
+    [
+      "FORTIM",
+      1
+    ],
+    [
+      "FRAIBURGO",
+      1
+    ],
+    [
+      "FRANCISCO ALVES",
+      1
+    ],
+    [
+      "FREI MIGUELINHO",
+      1
+    ],
+    [
+      "FREI PAULO",
+      1
+    ],
+    [
+      "FUNDAO",
+      1
+    ],
+    [
+      "GAMELEIRA",
+      1
+    ],
+    [
+      "GARIBALDI",
+      1
+    ],
+    [
+      "GAVIAO",
+      1
+    ],
+    [
+      "GENERAL CARNEIRO",
+      1
+    ],
+    [
+      "GLORINHA",
+      1
+    ],
+    [
+      "GODOY MOREIRA",
+      1
+    ],
+    [
+      "GOIANA",
+      1
+    ],
+    [
+      "GOIANDIRA",
+      1
+    ],
+    [
+      "GOVERNADOR EDISON LOBAO",
+      1
+    ],
+    [
+      "GOVERNADOR EUGENIO BARROS",
+      1
+    ],
+    [
+      "GOVERNADOR LINDENBERG",
+      1
+    ],
+    [
+      "GRAVATAL",
+      1
+    ],
+    [
+      "GUACUI",
+      1
+    ],
+    [
+      "GUAPE",
+      1
+    ],
+    [
+      "GUAPIRAMA",
+      1
+    ],
+    [
+      "GUARABIRA",
+      1
+    ],
+    [
+      "GUARATINGA",
+      1
+    ],
+    [
+      "GUIA LOPES DA LAGUNA",
+      1
+    ],
+    [
+      "GURINHATA",
+      1
+    ],
+    [
+      "HELIODORA",
+      1
+    ],
+    [
+      "HORIZONTINA",
+      1
+    ],
+    [
+      "IBATEGUARA",
+      1
+    ],
+    [
+      "IBIARA",
+      1
+    ],
+    [
+      "IBIPEBA",
+      1
+    ],
+    [
+      "IBIRAPUA",
+      1
+    ],
+    [
+      "ICARAIMA",
+      1
+    ],
+    [
+      "ICO",
+      1
+    ],
+    [
+      "IGACI",
+      1
+    ],
+    [
+      "IGARAPE GRANDE",
+      1
+    ],
+    [
+      "IGARAPE-ACU",
+      1
+    ],
+    [
+      "IGUABA GRANDE",
+      1
+    ],
+    [
+      "IGUARACU",
+      1
+    ],
+    [
+      "IGUATAMA",
+      1
+    ],
+    [
+      "ILHA DE ITAMARACA",
+      1
+    ],
+    [
+      "ILICINEA",
+      1
+    ],
+    [
+      "INCONFIDENTES",
+      1
+    ],
+    [
+      "INDIANOPOLIS",
+      1
+    ],
+    [
+      "INHAPI",
+      1
+    ],
+    [
+      "IPABA",
+      1
+    ],
+    [
+      "IPANGUACU",
+      1
+    ],
+    [
+      "IPIACU",
+      1
+    ],
+    [
+      "IPIRA",
+      1
+    ],
+    [
+      "IPIRANGA DE GOIAS",
+      1
+    ],
+    [
+      "IPUEIRAS",
+      1
+    ],
+    [
+      "IRANI",
+      1
+    ],
+    [
+      "IRITUIA",
+      1
+    ],
+    [
+      "ITAARA",
+      1
+    ],
+    [
+      "ITABAIANINHA",
+      1
+    ],
+    [
+      "ITABELA",
+      1
+    ],
+    [
+      "ITABERABA",
+      1
+    ],
+    [
+      "ITABIRA",
+      1
+    ],
+    [
+      "ITACOATIARA",
+      1
+    ],
+    [
+      "ITAGIMIRIM",
+      1
+    ],
+    [
+      "ITAGUACU",
+      1
+    ],
+    [
+      "ITAMARAJU",
+      1
+    ],
+    [
+      "ITAMARI",
+      1
+    ],
+    [
+      "ITAMONTE",
+      1
+    ],
+    [
+      "ITANHANDU",
+      1
+    ],
+    [
+      "ITAOCARA",
+      1
+    ],
+    [
+      "ITAPACI",
+      1
+    ],
+    [
+      "ITAPAJE",
+      1
+    ],
+    [
+      "ITAPARICA",
+      1
+    ],
+    [
+      "ITAPECERICA",
+      1
+    ],
+    [
+      "ITAPECURU MIRIM",
+      1
+    ],
+    [
+      "ITAPIRANGA",
+      1
+    ],
+    [
+      "ITAPIRAPUA",
+      1
+    ],
+    [
+      "ITAPIRAPUA PAULISTA",
+      1
+    ],
+    [
+      "ITAPORANGA D'AJUDA",
+      1
+    ],
+    [
+      "ITAQUARA",
+      1
+    ],
+    [
+      "ITAQUITINGA",
+      1
+    ],
+    [
+      "ITATIAIUCU",
+      1
+    ],
+    [
+      "ITORORO",
+      1
+    ],
+    [
+      "IVATE",
+      1
+    ],
+    [
+      "IVOTI",
+      1
+    ],
+    [
+      "JABORA",
+      1
+    ],
+    [
+      "JABOTI",
+      1
+    ],
+    [
+      "JACINTO",
+      1
+    ],
+    [
+      "JAGUARAO",
+      1
+    ],
+    [
+      "JAGUARIBE",
+      1
+    ],
+    [
+      "JAMBEIRO",
+      1
+    ],
+    [
+      "JANDAIRA",
+      1
+    ],
+    [
+      "JAPARATUBA",
+      1
+    ],
+    [
+      "JAPERI",
+      1
+    ],
+    [
+      "JAQUEIRA",
+      1
+    ],
+    [
+      "JARAGUA",
+      1
+    ],
+    [
+      "JARAGUARI",
+      1
+    ],
+    [
+      "JARDIM DO SERIDO",
+      1
+    ],
+    [
+      "JATEI",
+      1
+    ],
+    [
+      "JATOBA",
+      1
+    ],
+    [
+      "JENIPAPO DE MINAS",
+      1
+    ],
+    [
+      "JENIPAPO DOS VIEIRAS",
+      1
+    ],
+    [
+      "JEQUITAI",
+      1
+    ],
+    [
+      "JEQUITIBA",
+      1
+    ],
+    [
+      "JEREMOABO",
+      1
+    ],
+    [
+      "JIQUIRICA",
+      1
+    ],
+    [
+      "JOAO ALFREDO",
+      1
+    ],
+    [
+      "JOAQUIM NABUCO",
+      1
+    ],
+    [
+      "JOAQUIM TAVORA",
+      1
+    ],
+    [
+      "JOSE DE FREITAS",
+      1
+    ],
+    [
+      "JOSE GONCALVES DE MINAS",
+      1
+    ],
+    [
+      "JUCURUTU",
+      1
+    ],
+    [
+      "JULIO DE CASTILHOS",
+      1
+    ],
+    [
+      "JURUTI",
+      1
+    ],
+    [
+      "LABREA",
+      1
+    ],
+    [
+      "LAGAMAR",
+      1
+    ],
+    [
+      "LAGO DA PEDRA",
+      1
+    ],
+    [
+      "LAGOA DO MATO",
+      1
+    ],
+    [
+      "LAGOA DOS PATOS",
+      1
+    ],
+    [
+      "LAGOA GRANDE",
+      1
+    ],
+    [
+      "LAGOA SALGADA",
+      1
+    ],
+    [
+      "LAJEDO",
+      1
+    ],
+    [
+      "LAJES PINTADAS",
+      1
+    ],
+    [
+      "LAJINHA",
+      1
+    ],
+    [
+      "LAPA",
+      1
+    ],
+    [
+      "LARANJAL",
+      1
+    ],
+    [
+      "LAURENTINO",
+      1
+    ],
+    [
+      "LAVRAS DA MANGABEIRA",
+      1
+    ],
+    [
+      "LAVRINHAS",
+      1
+    ],
+    [
+      "LEOPOLDO DE BULHOES",
+      1
+    ],
+    [
+      "LIMA DUARTE",
+      1
+    ],
+    [
+      "LINDOIA",
+      1
+    ],
+    [
+      "LIZARDA",
+      1
+    ],
+    [
+      "MACAU",
+      1
+    ],
+    [
+      "MACHADINHO D'OESTE",
+      1
+    ],
+    [
+      "MAE DO RIO",
+      1
+    ],
+    [
+      "MAGALHAES DE ALMEIDA",
+      1
+    ],
+    [
+      "MAGE",
+      1
+    ],
+    [
+      "MALACACHETA",
+      1
+    ],
+    [
+      "MALHADA DOS BOIS",
+      1
+    ],
+    [
+      "MAMBAI",
+      1
+    ],
+    [
+      "MANAIRA",
+      1
+    ],
+    [
+      "MANCIO LIMA",
+      1
+    ],
+    [
+      "MANDAGUARI",
+      1
+    ],
+    [
+      "MANOEL EMIDIO",
+      1
+    ],
+    [
+      "MARA ROSA",
+      1
+    ],
+    [
+      "MARAGOGIPE",
+      1
+    ],
+    [
+      "MARATAIZES",
+      1
+    ],
+    [
+      "MARAVILHAS",
+      1
+    ],
+    [
+      "MARCO",
+      1
+    ],
+    [
+      "MARECHAL CANDIDO RONDON",
+      1
+    ],
+    [
+      "MARIAPOLIS",
+      1
+    ],
+    [
+      "MARIOPOLIS",
+      1
+    ],
+    [
+      "MARIPA",
+      1
+    ],
+    [
+      "MARMELOPOLIS",
+      1
+    ],
+    [
+      "MARTINOPOLE",
+      1
+    ],
+    [
+      "MARUIM",
+      1
+    ],
+    [
+      "MASSAPE",
+      1
+    ],
+    [
+      "MATA VERDE",
+      1
+    ],
+    [
+      "MATEIROS",
+      1
+    ],
+    [
+      "MATIAS CARDOSO",
+      1
+    ],
+    [
+      "MATO VERDE",
+      1
+    ],
+    [
+      "MATOZINHOS",
+      1
+    ],
+    [
+      "MAUES",
+      1
+    ],
+    [
+      "MEDEIROS NETO",
+      1
+    ],
+    [
+      "MEDINA",
+      1
+    ],
+    [
+      "MELGACO",
+      1
+    ],
+    [
+      "MENDES",
+      1
+    ],
+    [
+      "MILAGRES DO MARANHAO",
+      1
+    ],
+    [
+      "MIRABELA",
+      1
+    ],
+    [
+      "MIRADOR",
+      1
+    ],
+    [
+      "MIRANDIBA",
+      1
+    ],
+    [
+      "MIRANORTE",
+      1
+    ],
+    [
+      "MOEMA",
+      1
+    ],
+    [
+      "MONDAI",
+      1
+    ],
+    [
+      "MONSENHOR TABOSA",
+      1
+    ],
+    [
+      "MONTALVANIA",
+      1
+    ],
+    [
+      "MONTE ALEGRE DO PIAUI",
+      1
+    ],
+    [
+      "MONTE SANTO",
+      1
+    ],
+    [
+      "MONTE SANTO DE MINAS",
+      1
+    ],
+    [
+      "MONTEIRO LOBATO",
+      1
+    ],
+    [
+      "MONTES CLAROS DE GOIAS",
+      1
+    ],
+    [
+      "MORADA NOVA DE MINAS",
+      1
+    ],
+    [
+      "MOREIRA SALES",
+      1
+    ],
+    [
+      "MORPARA",
+      1
+    ],
+    [
+      "MORRETES",
+      1
+    ],
+    [
+      "MORTUGABA",
+      1
+    ],
+    [
+      "MUANA",
+      1
+    ],
+    [
+      "MUCUGE",
+      1
+    ],
+    [
+      "MUCURI",
+      1
+    ],
+    [
+      "MURIAE",
+      1
+    ],
+    [
+      "MURICI",
+      1
+    ],
+    [
+      "NANUQUE",
+      1
+    ],
+    [
+      "NATIVIDADE DA SERRA",
+      1
+    ],
+    [
+      "NAZARE",
+      1
+    ],
+    [
+      "NAZARE DA MATA",
+      1
+    ],
+    [
+      "NAZARIO",
+      1
+    ],
+    [
+      "NEOPOLIS",
+      1
+    ],
+    [
+      "NEPOMUCENO",
+      1
+    ],
+    [
+      "NISIA FLORESTA",
+      1
+    ],
+    [
+      "NOBRES",
+      1
+    ],
+    [
+      "NONOAI",
+      1
+    ],
+    [
+      "NOSSA SENHORA APARECIDA",
+      1
+    ],
+    [
+      "NOVA AURORA",
+      1
+    ],
+    [
+      "NOVA FLORESTA",
+      1
+    ],
+    [
+      "NOVA HARTZ",
+      1
+    ],
+    [
+      "NOVA ITABERABA",
+      1
+    ],
+    [
+      "NOVA MAMORE",
+      1
+    ],
+    [
+      "NOVA SOURE",
+      1
+    ],
+    [
+      "NOVO GAMA",
+      1
+    ],
+    [
+      "NOVO HORIZONTE DO OESTE",
+      1
+    ],
+    [
+      "NOVO JARDIM",
+      1
+    ],
+    [
+      "NOVO ORIENTE DE MINAS",
+      1
+    ],
+    [
+      "NOVO REPARTIMENTO",
+      1
+    ],
+    [
+      "OLEO",
+      1
+    ],
+    [
+      "OLHO D'AGUA DAS FLORES",
+      1
+    ],
+    [
+      "OLHO D'AGUA DO CASADO",
+      1
+    ],
+    [
+      "ORIENTE",
+      1
+    ],
+    [
+      "ORLEANS",
+      1
+    ],
+    [
+      "OSCAR BRESSANE",
+      1
+    ],
+    [
+      "OURIZONA",
+      1
+    ],
+    [
+      "OURO VERDE DO OESTE",
+      1
+    ],
+    [
+      "PALESTINA DE GOIAS",
+      1
+    ],
+    [
+      "PALESTINA DO PARA",
+      1
+    ],
+    [
+      "PALMA SOLA",
+      1
+    ],
+    [
+      "PALMEIRA DO PIAUI",
+      1
+    ],
+    [
+      "PALMEIRANTE",
+      1
+    ],
+    [
+      "PALMEIRAS",
+      1
+    ],
+    [
+      "PALMITOS",
+      1
+    ],
+    [
+      "PANTANO GRANDE",
+      1
+    ],
+    [
+      "PAPAGAIOS",
+      1
+    ],
+    [
+      "PARACAMBI",
+      1
+    ],
+    [
+      "PARANAITA",
+      1
+    ],
+    [
+      "PARANAPOEMA",
+      1
+    ],
+    [
+      "PARECI NOVO",
+      1
+    ],
+    [
+      "PARIPIRANGA",
+      1
+    ],
+    [
+      "PARIPUEIRA",
+      1
+    ],
+    [
+      "PARNARAMA",
+      1
+    ],
+    [
+      "PATOS DO PIAUI",
+      1
+    ],
+    [
+      "PAU DOS FERROS",
+      1
+    ],
+    [
+      "PAULISTANA",
+      1
+    ],
+    [
+      "PAULISTAS",
+      1
+    ],
+    [
+      "PAULO RAMOS",
+      1
+    ],
+    [
+      "PEDRA DO INDAIA",
+      1
+    ],
+    [
+      "PEDRALVA",
+      1
+    ],
+    [
+      "PEDRAS ALTAS",
+      1
+    ],
+    [
+      "PEDRAS DE MARIA DA CRUZ",
+      1
+    ],
+    [
+      "PEDRINHAS PAULISTA",
+      1
+    ],
+    [
+      "PEDRO VELHO",
+      1
+    ],
+    [
+      "PERDOES",
+      1
+    ],
+    [
+      "PEREIRO",
+      1
+    ],
+    [
+      "PERIQUITO",
+      1
+    ],
+    [
+      "PERITORO",
+      1
+    ],
+    [
+      "PEROLA",
+      1
+    ],
+    [
+      "PEROLANDIA",
+      1
+    ],
+    [
+      "PETROLANDIA",
+      1
+    ],
+    [
+      "PIEDADE DE PONTE NOVA",
+      1
+    ],
+    [
+      "PIEN",
+      1
+    ],
+    [
+      "PILAR",
+      1
+    ],
+    [
+      "PIMENTA",
+      1
+    ],
+    [
+      "PIMENTEIRAS",
+      1
+    ],
+    [
+      "PIMENTEIRAS DO OESTE",
+      1
+    ],
+    [
+      "PINDOBACU",
+      1
+    ],
+    [
+      "PINDORETAMA",
+      1
+    ],
+    [
+      "PINHALAO",
+      1
+    ],
+    [
+      "PINHAO",
+      1
+    ],
+    [
+      "PIRAI DO NORTE",
+      1
+    ],
+    [
+      "PIRAPEMAS",
+      1
+    ],
+    [
+      "PIRAQUE",
+      1
+    ],
+    [
+      "PIRITIBA",
+      1
+    ],
+    [
+      "PITANGUI",
+      1
+    ],
+    [
+      "PIUM",
+      1
+    ],
+    [
+      "PIUMA",
+      1
+    ],
+    [
+      "PLANALTO DA SERRA",
+      1
+    ],
+    [
+      "POCO BRANCO",
+      1
+    ],
+    [
+      "POCOES",
+      1
+    ],
+    [
+      "POMBAL",
+      1
+    ],
+    [
+      "PONTE BRANCA",
+      1
+    ],
+    [
+      "PONTO NOVO",
+      1
+    ],
+    [
+      "PORANGA",
+      1
+    ],
+    [
+      "PORTEIRINHA",
+      1
+    ],
+    [
+      "PORTO BARREIRO",
+      1
+    ],
+    [
+      "PORTO FRANCO",
+      1
+    ],
+    [
+      "PORTO REAL",
+      1
+    ],
+    [
+      "PORTO REAL DO COLEGIO",
+      1
+    ],
+    [
+      "PORTO RICO",
+      1
+    ],
+    [
+      "PORTO UNIAO",
+      1
+    ],
+    [
+      "POTIM",
+      1
+    ],
+    [
+      "POUSO ALTO",
+      1
+    ],
+    [
+      "PRADOS",
+      1
+    ],
+    [
+      "PRESIDENTE FIGUEIREDO",
+      1
+    ],
+    [
+      "PRESIDENTE OLEGARIO",
+      1
+    ],
+    [
+      "PRESIDENTE TANCREDO NEVES",
+      1
+    ],
+    [
+      "PRESIDENTE VARGAS",
+      1
+    ],
+    [
+      "PUGMIL",
+      1
+    ],
+    [
+      "QUADRA",
+      1
+    ],
+    [
+      "QUATIS",
+      1
+    ],
+    [
+      "QUATRO BARRAS",
+      1
+    ],
+    [
+      "QUERENCIA DO NORTE",
+      1
+    ],
+    [
+      "QUISSAMA",
+      1
+    ],
+    [
+      "QUITANDINHA",
+      1
+    ],
+    [
+      "QUITERIANOPOLIS",
+      1
+    ],
+    [
+      "QUIXADA",
+      1
+    ],
+    [
+      "QUIXELO",
+      1
+    ],
+    [
+      "QUIXERAMOBIM",
+      1
+    ],
+    [
+      "RAFAEL JAMBEIRO",
+      1
+    ],
+    [
+      "REALEZA",
+      1
+    ],
+    [
+      "RENASCENCA",
+      1
+    ],
+    [
+      "RESENDE COSTA",
+      1
+    ],
+    [
+      "RETIROLANDIA",
+      1
+    ],
+    [
+      "RIACHAO DO JACUIPE",
+      1
+    ],
+    [
+      "RIACHO DOS MACHADOS",
+      1
+    ],
+    [
+      "RIBEIRA",
+      1
+    ],
+    [
+      "RIBEIRAO",
+      1
+    ],
+    [
+      "RIBEIRAO BRANCO",
+      1
+    ],
+    [
+      "RIBEIRAO CLARO",
+      1
+    ],
+    [
+      "RIBEIRAO DO SUL",
+      1
+    ],
+    [
+      "RIO DAS FLORES",
+      1
+    ],
+    [
+      "RIO DE CONTAS",
+      1
+    ],
+    [
+      "RIO DOS CEDROS",
+      1
+    ],
+    [
+      "RIO FORMOSO",
+      1
+    ],
+    [
+      "RIO MARIA",
+      1
+    ],
+    [
+      "RIO NEGRO",
+      1
+    ],
+    [
+      "RIO REAL",
+      1
+    ],
+    [
+      "RIO SONO",
+      1
+    ],
+    [
+      "RORAINOPOLIS",
+      1
+    ],
+    [
+      "ROSARIO DO SUL",
+      1
+    ],
+    [
+      "RUBELITA",
+      1
+    ],
+    [
+      "RUROPOLIS",
+      1
+    ],
+    [
+      "RUY BARBOSA",
+      1
+    ],
+    [
+      "SALGADO DE SAO FELIX",
+      1
+    ],
+    [
+      "SANANDUVA",
+      1
+    ],
+    [
+      "SANHARO",
+      1
+    ],
+    [
+      "SANTA BARBARA",
+      1
+    ],
+    [
+      "SANTA BARBARA DE GOIAS",
+      1
+    ],
+    [
+      "SANTA BARBARA DO PARA",
+      1
+    ],
+    [
+      "SANTA BARBARA DO SUL",
+      1
+    ],
+    [
+      "SANTA CRUZ",
+      1
+    ],
+    [
+      "SANTA CRUZ DA CONCEICAO",
+      1
+    ],
+    [
+      "SANTA FE",
+      1
+    ],
+    [
+      "SANTA FE DE GOIAS",
+      1
+    ],
+    [
+      "SANTA FE DE MINAS",
+      1
+    ],
+    [
+      "SANTA FILOMENA",
+      1
+    ],
+    [
+      "SANTA LEOPOLDINA",
+      1
+    ],
+    [
+      "SANTA LUZIA D'OESTE",
+      1
+    ],
+    [
+      "SANTA MARIA DE JETIBA",
+      1
+    ],
+    [
+      "SANTA MARIA DO SALTO",
+      1
+    ],
+    [
+      "SANTA MARIA DO SUACUI",
+      1
+    ],
+    [
+      "SANTA RITA",
+      1
+    ],
+    [
+      "SANTA RITA DE JACUTINGA",
+      1
+    ],
+    [
+      "SANTA RITA DE MINAS",
+      1
+    ],
+    [
+      "SANTA RITA DO PARDO",
+      1
+    ],
+    [
+      "SANTA TERESA",
+      1
+    ],
+    [
+      "SANTA TEREZINHA DE ITAIPU",
+      1
+    ],
+    [
+      "SANTALUZ",
+      1
+    ],
+    [
+      "SANTANA DE CATAGUASES",
+      1
+    ],
+    [
+      "SANTANA DO CARIRI",
+      1
+    ],
+    [
+      "SANTIAGO",
+      1
+    ],
+    [
+      "SANTO ANTONIO DE PADUA",
+      1
+    ],
+    [
+      "SANTO ANTONIO DO MONTE",
+      1
+    ],
+    [
+      "SANTO ANTONIO DO RIO ABAIXO",
+      1
+    ],
+    [
+      "SANTO ANTONIO DOS LOPES",
+      1
+    ],
+    [
+      "SANTO AUGUSTO",
+      1
+    ],
+    [
+      "SAO BENTINHO",
+      1
+    ],
+    [
+      "SAO BENTO",
+      1
+    ],
+    [
+      "SAO BENTO DO UNA",
+      1
+    ],
+    [
+      "SAO BERNARDO",
+      1
+    ],
+    [
+      "SAO CARLOS DO IVAI",
+      1
+    ],
+    [
+      "SAO DOMINGOS DO MARANHAO",
+      1
+    ],
+    [
+      "SAO DOMINGOS DO NORTE",
+      1
+    ],
+    [
+      "SAO FELIPE",
+      1
+    ],
+    [
+      "SAO GABRIEL DA PALHA",
+      1
+    ],
+    [
+      "SAO GERALDO",
+      1
+    ],
+    [
+      "SAO GONCALO DO PIAUI",
+      1
+    ],
+    [
+      "SAO GONCALO DO RIO ABAIXO",
+      1
+    ],
+    [
+      "SAO GONCALO DO SAPUCAI",
+      1
+    ],
+    [
+      "SAO JOAO",
+      1
+    ],
+    [
+      "SAO JOAO BATISTA",
+      1
+    ],
+    [
+      "SAO JOAO DA MATA",
+      1
+    ],
+    [
+      "SAO JOAO DAS MISSOES",
+      1
+    ],
+    [
+      "SAO JOAO DO SUL",
+      1
+    ],
+    [
+      "SAO JOAO NEPOMUCENO",
+      1
+    ],
+    [
+      "SAO JOAQUIM DE BICAS",
+      1
+    ],
+    [
+      "SAO JORGE D'OESTE",
+      1
+    ],
+    [
+      "SAO JOSE DA BARRA",
+      1
+    ],
+    [
+      "SAO JOSE DA COROA GRANDE",
+      1
+    ],
+    [
+      "SAO JOSE DA LAJE",
+      1
+    ],
+    [
+      "SAO JOSE DA TAPERA",
+      1
+    ],
+    [
+      "SAO JOSE DE CAIANA",
+      1
+    ],
+    [
+      "SAO JOSE DE MIPIBU",
+      1
+    ],
+    [
+      "SAO JOSE DE PIRANHAS",
+      1
+    ],
+    [
+      "SAO JOSE DO CERRITO",
+      1
+    ],
+    [
+      "SAO JOSE DO EGITO",
+      1
+    ],
+    [
+      "SAO JOSE DO POVO",
+      1
+    ],
+    [
+      "SAO JOSE DO VALE DO RIO PRETO",
+      1
+    ],
+    [
+      "SAO JULIAO",
+      1
+    ],
+    [
+      "SAO LOURENCO DA MATA",
+      1
+    ],
+    [
+      "SAO LOURENCO DO OESTE",
+      1
+    ],
+    [
+      "SAO LOURENCO DO SUL",
+      1
+    ],
+    [
+      "SAO LUIZ DO PARAITINGA",
+      1
+    ],
+    [
+      "SAO MIGUEL",
+      1
+    ],
+    [
+      "SAO MIGUEL DO GUAPORE",
+      1
+    ],
+    [
+      "SAO PEDRO DA CIPA",
+      1
+    ],
+    [
+      "SAO PEDRO DA UNIAO",
+      1
+    ],
+    [
+      "SAO PEDRO DO SUL",
+      1
+    ],
+    [
+      "SAO SEBASTIAO DA AMOREIRA",
+      1
+    ],
+    [
+      "SAO SEPE",
+      1
+    ],
+    [
+      "SAO TIAGO",
+      1
+    ],
+    [
+      "SAO VICENTE FERRER",
+      1
+    ],
+    [
+      "SAPIRANGA",
+      1
+    ],
+    [
+      "SAUDE",
+      1
+    ],
+    [
+      "SEABRA",
+      1
+    ],
+    [
+      "SENADOR AMARAL",
+      1
+    ],
+    [
+      "SENADOR ELOI DE SOUZA",
+      1
+    ],
+    [
+      "SENADOR GEORGINO AVELINO",
+      1
+    ],
+    [
+      "SERAFINA CORREA",
+      1
+    ],
+    [
+      "SERINGUEIRAS",
+      1
+    ],
+    [
+      "SERRA PRETA",
+      1
+    ],
+    [
+      "SERRANOPOLIS DE MINAS",
+      1
+    ],
+    [
+      "SERRANOPOLIS DO IGUACU",
+      1
+    ],
+    [
+      "SERRO",
+      1
+    ],
+    [
+      "SERTANOPOLIS",
+      1
+    ],
+    [
+      "SILVA JARDIM",
+      1
+    ],
+    [
+      "SILVIANOPOLIS",
+      1
+    ],
+    [
+      "SOBRADINHO",
+      1
+    ],
+    [
+      "SOCORRO DO PIAUI",
+      1
+    ],
+    [
+      "SOLANEA",
+      1
+    ],
+    [
+      "SUMIDOURO",
+      1
+    ],
+    [
+      "SURUBIM",
+      1
+    ],
+    [
+      "TABULEIRO DO NORTE",
+      1
+    ],
+    [
+      "TACURU",
+      1
+    ],
+    [
+      "TANQUE NOVO",
+      1
+    ],
+    [
+      "TAPURAH",
+      1
+    ],
+    [
+      "TAQUARI",
+      1
+    ],
+    [
+      "TEIXEIRA",
+      1
+    ],
+    [
+      "TEJUPA",
+      1
+    ],
+    [
+      "TENENTE PORTELA",
+      1
+    ],
+    [
+      "TENORIO",
+      1
+    ],
+    [
+      "TERESOPOLIS",
+      1
+    ],
+    [
+      "TESOURO",
+      1
+    ],
+    [
+      "TIMBIRAS",
+      1
+    ],
+    [
+      "TIROS",
+      1
+    ],
+    [
+      "TOCANTINS",
+      1
+    ],
+    [
+      "TOMAR DO GERU",
+      1
+    ],
+    [
+      "TOMBOS",
+      1
+    ],
+    [
+      "TORITAMA",
+      1
+    ],
+    [
+      "TRES DE MAIO",
+      1
+    ],
+    [
+      "TUCURUI",
+      1
+    ],
+    [
+      "TUNTUM",
+      1
+    ],
+    [
+      "TUPANATINGA",
+      1
+    ],
+    [
+      "TUTOIA",
+      1
+    ],
+    [
+      "UMBURANAS",
+      1
+    ],
+    [
+      "UNA",
+      1
+    ],
+    [
+      "UNIAO DO SUL",
+      1
+    ],
+    [
+      "URUCANIA",
+      1
+    ],
+    [
+      "URUCUCA",
+      1
+    ],
+    [
+      "UTINGA",
+      1
+    ],
+    [
+      "VALENCA DO PIAUI",
+      1
+    ],
+    [
+      "VALENTE",
+      1
+    ],
+    [
+      "VARGEM",
+      1
+    ],
+    [
+      "VARGEM ALTA",
+      1
+    ],
+    [
+      "VARJAO DE MINAS",
+      1
+    ],
+    [
+      "VARJOTA",
+      1
+    ],
+    [
+      "VARZEA DA ROCA",
+      1
+    ],
+    [
+      "VENANCIO AIRES",
+      1
+    ],
+    [
+      "VERA",
+      1
+    ],
+    [
+      "VERANOPOLIS",
+      1
+    ],
+    [
+      "VERDELANDIA",
+      1
+    ],
+    [
+      "VESPASIANO",
+      1
+    ],
+    [
+      "VICENCIA",
+      1
+    ],
+    [
+      "VICENTINA",
+      1
+    ],
+    [
+      "VICOSA DO CEARA",
+      1
+    ],
+    [
+      "VICTOR GRAEFF",
+      1
+    ],
+    [
+      "VIGIA",
+      1
+    ],
+    [
+      "VILA PROPICIO",
+      1
+    ],
+    [
+      "VILA VALERIO",
+      1
+    ],
+    [
+      "VIRGINIA",
+      1
+    ],
+    [
+      "VITOR MEIRELES",
+      1
+    ]
+  ],
+  "cnaes": [
+    [
+      "Cultivo de cana-de-açúcar",
+      69523
+    ],
+    [
+      "Criação de bovinos para corte",
+      68623
+    ],
+    [
+      "Cultivo de seringueira",
+      46347
+    ],
+    [
+      "Comércio varejista de artigos do vestuário e acessórios",
+      38614
+    ],
+    [
+      "Cabeleireiros, manicure e pedicure",
+      23470
+    ],
+    [
+      "Promoção de vendas",
+      23158
+    ],
+    [
+      "Lanchonetes, casas de chá, de sucos e similares",
+      19987
+    ],
+    [
+      "Criação de bovinos para leite",
+      19425
+    ],
+    [
+      "Obras de alvenaria",
+      18961
+    ],
+    [
+      "Transporte rodoviário de carga, exceto produtos perigosos e mudanças, intermunicipal, interestadual e internacional",
+      17564
+    ],
+    [
+      "Preparação de documentos e serviços especializados de apoio administrativo não especificados anteriormente",
+      15338
+    ],
+    [
+      "Cultivo de laranja",
+      15142
+    ],
+    [
+      "Transporte rodoviário de carga, exceto produtos perigosos e mudanças, municipal.",
+      10861
+    ],
+    [
+      "Atividades de estética e outros serviços de cuidados com a beleza",
+      10597
+    ],
+    [
+      "Cultivo de cítricos, exceto laranja",
+      10248
+    ],
+    [
+      "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns",
+      10132
+    ],
+    [
+      "Restaurantes e similares",
+      10016
+    ],
+    [
+      "Fornecimento de alimentos preparados preponderantemente para consumo domiciliar",
+      9633
+    ],
+    [
+      "Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento",
+      9318
+    ],
+    [
+      "Comércio varejista de bebidas",
+      9315
+    ],
+    [
+      "Instalação e manutenção elétrica",
+      9276
+    ],
+    [
+      "Serviços domésticos",
+      9216
+    ],
+    [
+      "Atividade médica ambulatorial restrita a consultas",
+      8407
+    ],
+    [
+      "Outras atividades de ensino não especificadas anteriormente",
+      7368
+    ],
+    [
+      "Serviços ambulantes de alimentação",
+      7215
+    ],
+    [
+      "Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal",
+      7212
+    ],
+    [
+      "Comércio a varejo de peças e acessórios novos para veículos automotores",
+      7069
+    ],
+    [
+      "Atividades de organizações políticas",
+      6841
+    ],
+    [
+      "Serviços de manutenção e reparação mecânica de veículos automotores",
+      6800
+    ],
+    [
+      "Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente",
+      6748
+    ]
+  ],
+  "situacoes": [
+    [
+      "ATIVA",
+      535073
+    ],
+    [
+      "BAIXADA",
+      357693
+    ],
+    [
+      "INAPTA",
+      85094
+    ],
+    [
+      "SUSPENSA",
+      1393
+    ],
+    [
+      "NULA",
+      1128
+    ]
+  ],
+  "descartes": {
+    "ddd": 729661,
+    "vazio": 2274,
+    "lixo": 3690,
+    "formato": 8003
+  }
+}

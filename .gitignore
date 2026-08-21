@@ -1,0 +1,18 @@
+# ---- dados brutos da Receita: 6,6 GB, rebaixáveis com scripts/download.sh
+data/raw/
+
+# ---- base gerada: ~1 milhão de telefones e e-mails, boa parte de MEIs
+# (pessoas físicas). Não versionada de propósito: é reproduzível rodando os
+# scripts e não deve ser redistribuída em massa. Só sobem os agregados.
+data/out/*
+!data/out/area_ddd17.json
+!data/out/relatorio.json
+data/demo/
+
+# ---- páginas geradas (a real tem ~58 MB com a base embutida)
+drhery_leads.html
+demo.html
+
+# ---- python
+__pycache__/
+*.pyc
