@@ -583,7 +583,41 @@ $("#copiar").onclick=async()=>{
   aviso(`✓ ${VIEW.length.toLocaleString("pt-BR")} e-mails copiados`);
 };
 
-carregar().catch(e=>{$("#lmsg").innerHTML=`<b style="color:var(--bad)">FALHA NA DECRIPTAÇÃO</b><br><small>${e.message}</small>`});
+/* Quem recebe o arquivo pode abrir num navegador antigo ou numa máquina sem
+   memória sobrando. Nesses casos uma mensagem tecnica nao ajuda: diz o que fazer. */
+function falha(titulo,texto){
+  const el=$("#lmsg");
+  if(!el)return;
+  el.innerHTML=`<b style="color:var(--bad);font-size:13px">${titulo}</b>`+
+    `<div style="color:var(--tx2);letter-spacing:0;text-transform:none;margin-top:9px;`+
+    `max-width:420px;line-height:1.6;font-size:11.5px">${texto}</div>`;
+  const b=document.querySelector(".bar"); if(b) b.style.display="none";
+}
+
+if(typeof DecompressionStream==="undefined"){
+  falha("NAVEGADOR SEM SUPORTE",
+    "Esta página precisa de um navegador mais recente.<br><br>"+
+    "Abra o arquivo no <b>Google Chrome</b> ou <b>Microsoft Edge</b> atualizado "+
+    "(versão de 2020 ou posterior). No Firefox, é necessária a versão 113 ou superior.<br><br>"+
+    "Internet Explorer não funciona.");
+}else{
+  carregar().catch(e=>{
+    const semMemoria = e instanceof RangeError ||
+      /allocation|out of memory|Array buffer|invalid string length/i.test(e.message||"");
+    if(semMemoria){
+      falha("MEMÓRIA INSUFICIENTE",
+        "A base é grande e o navegador não conseguiu carregá-la nesta máquina.<br><br>"+
+        "Feche as outras abas e tente de novo. Se persistir, esta máquina precisa "+
+        "de uma versão reduzida do arquivo.");
+    }else{
+      falha("NÃO FOI POSSÍVEL ABRIR",
+        "O arquivo pode ter sido baixado pela metade ou alterado no envio.<br><br>"+
+        "Baixe novamente e abra direto do computador (não de dentro do e-mail "+
+        "ou do Google Drive).<br><br><span style='opacity:.6'>Detalhe técnico: "+
+        `${(e.message||e).toString().slice(0,120)}</span>`);
+    }
+  });
+}
 </script></body></html>
 """
 
