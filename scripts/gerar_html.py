@@ -179,7 +179,8 @@ h1::after{content:"_";color:var(--vd);animation:blink 1.1s steps(1) infinite}
 .aba:hover{color:var(--vd2)}
 .aba.on{color:var(--vd);border-color:var(--line2);background:var(--pan);
   box-shadow:0 -2px 0 var(--vd) inset}
-#copiar{margin-left:auto;margin-bottom:4px}
+#disparador{margin-left:auto;margin-bottom:4px}
+#copiar{margin-bottom:4px}
 .mail{color:var(--am);font-size:11.5px}
 tbody tr:hover .mail{text-shadow:0 0 8px rgba(242,255,0,.4)}
 #okcopy{position:fixed;bottom:18px;left:50%;transform:translateX(-50%);z-index:80;
@@ -277,7 +278,8 @@ tbody tr:hover .tel{text-shadow:0 0 9px rgba(0,255,106,.55)}
 <div id="abas">
   <button class="aba on" data-aba="tel">▸ TELEFONES</button>
   <button class="aba" data-aba="email">▸ E-MAILS</button>
-  <button class="btn p" id="copiar" hidden>[ COPIAR E-MAILS ]</button>
+  <button class="btn p" id="disparador" hidden title="CSV pronto para importar no Disparador de E-mail">[ BAIXAR P/ DISPARADOR ]</button>
+  <button class="btn" id="copiar" hidden>[ COPIAR E-MAILS ]</button>
 </div>
 
 <div id="filtros">
@@ -350,7 +352,7 @@ async function carregar(){
   IDX=D.rows.map((_,i)=>i);
   aba=abaInicial();
   document.querySelectorAll(".aba").forEach(b=>b.classList.toggle("on",b.dataset.aba===aba));
-  $("#copiar").hidden = aba!=="email";
+  $("#copiar").hidden = $("#disparador").hidden = aba!=="email";
   montarFiltros(); montarCabecalho(); aplicar();
   $("#load").remove();
 }
@@ -382,7 +384,7 @@ function trocarAba(nova){
   store.set(LS_ABA,aba);
   history.replaceState(null,"","#"+aba);
   document.querySelectorAll(".aba").forEach(b=>b.classList.toggle("on",b.dataset.aba===aba));
-  $("#copiar").hidden = aba!=="email";
+  $("#copiar").hidden = $("#disparador").hidden = aba!=="email";
   montarCabecalho(); aplicar();
 }
 
@@ -558,11 +560,56 @@ $("#exp").onclick=()=>{
 };
 const est=t=>ST[t]==="ok"?"CONTATADO":ST[t]==="x"?"DESCARTADO":"";
 const hoje=()=>new Date().toISOString().slice(0,10);
-function baixar(txt,nome){
+function baixar(txt,nome,mime,bom){
+  // BOM ajuda o Excel a ler acento em .csv, mas corrompe o primeiro registro
+  // de um .txt que vai ser lido por outro programa.
+  const corpo = (bom===false ? txt : "\ufeff"+txt);
   const a=document.createElement("a");
-  a.href=URL.createObjectURL(new Blob(["\ufeff"+txt],{type:"text/csv;charset=utf-8"}));
+  a.href=URL.createObjectURL(new Blob([corpo],{type:mime||"text/csv;charset=utf-8"}));
   a.download=nome; a.click(); setTimeout(()=>URL.revokeObjectURL(a.href),1000);
 }
+
+/* ---------- exportar para o Disparador de E-mail ----------
+   Formato ditado pelo parser em ~/Área de trabalho/Email sender/server.py:
+   - "email" e "nome" precisam desses nomes exatos (EMAIL_KEYS / NAME_KEYS)
+   - toda coluna extra vira variável {{coluna}} no corpo da mensagem
+   - a importação recusa acima de MAX_IMPORT_ROWS (200.000) por arquivo      */
+const LIMITE_DISPARADOR=50000;
+const EMAIL_OK=/^[^@\s,;<>]+@[^@\s,;<>]+\.[A-Za-z]{2,}$/;  // igual ao render.py
+
+$("#disparador").onclick=()=>{
+  const linhas=[];
+  let invalidos=0;
+  VIEW.forEach(i=>{
+    const r=D.rows[i];
+    const email=(r[10]||"").trim().toLowerCase();
+    if(!EMAIL_OK.test(email)){ invalidos++; return; }
+    // "NÃO DETECTADO" no lugar do nome viraria "Olá NÃO DETECTADO" no disparo;
+    // em branco, o fallback {{nome|amigo}} do Disparador assume.
+    const nome=r[2]===SEM_NOME?"":r[2];
+    linhas.push([email,nome,D.dic.cidade[r[4]],D.dic.cnae[r[5]]]);
+  });
+  if(!linhas.length) return aviso("nenhum e-mail válido no filtro atual");
+
+  const cab="email,nome,cidade,segmento";
+  const csv=v=>`"${String(v||"").replace(/"/g,'""')}"`;
+  const blocos=Math.ceil(linhas.length/LIMITE_DISPARADOR);
+  const dia=hoje();
+
+  for(let b=0;b<blocos;b++){
+    const fatia=linhas.slice(b*LIMITE_DISPARADOR,(b+1)*LIMITE_DISPARADOR);
+    const txt=[cab].concat(fatia.map(l=>l.map(csv).join(","))).join("\r\n");
+    const nome = blocos>1
+      ? `drhery_disparador_${dia}_parte${b+1}de${blocos}.csv`
+      : `drhery_disparador_${dia}.csv`;
+    // downloads em sequência: o navegador ignora vários disparados no mesmo tick
+    setTimeout(()=>baixar(txt,nome),b*300);
+  }
+
+  const n=v=>v.toLocaleString("pt-BR");
+  aviso(`✓ ${n(linhas.length)} e-mails em ${blocos} arquivo${blocos>1?"s":""}`+
+        (invalidos?` · ${n(invalidos)} inválidos descartados`:""));
+};
 
 /* ---------- copiar e-mails ---------- */
 function aviso(t){const e=$("#okcopy");e.textContent=t;e.classList.add("on");
@@ -578,7 +625,7 @@ $("#copiar").onclick=async()=>{
     ta.value=lista; ta.style.position="fixed"; ta.style.opacity="0";
     document.body.appendChild(ta); ta.select();
     const ok=document.execCommand("copy"); ta.remove();
-    if(!ok){ baixar(lista,`drhery_emails_${hoje()}.txt`); return aviso("copia bloqueada — baixei em .txt"); }
+    if(!ok){ baixar(lista,`drhery_emails_${hoje()}.txt`,"text/plain;charset=utf-8",false); return aviso("copia bloqueada — baixei em .txt"); }
   }
   aviso(`✓ ${VIEW.length.toLocaleString("pt-BR")} e-mails copiados`);
 };
